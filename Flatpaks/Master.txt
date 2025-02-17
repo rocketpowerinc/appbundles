@@ -1,6 +1,6 @@
-com.spotify.Client
-org.gimp.GIMP
-org.libreoffice.LibreOffice
-com.visualstudio.code
-org.deskflow.deskflow
-de.schmidhuberj.tubefeeder
+Productivity|com.spotify.Client
+Productivity|org.libreoffice.LibreOffice
+Productivity|com.visualstudio.code
+Entertainment|org.gimp.GIMP
+Entertainment|org.deskflow.deskflow
+Entertainment|de.schmidhuberj.tubefeeder
