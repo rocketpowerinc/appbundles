@@ -7,8 +7,3 @@ Productivity|com.visualstudio.code
 Entertainment|org.gimp.GIMP
 Entertainment|org.deskflow.deskflow
 Entertainment|de.schmidhuberj.tubefeeder
-
-# Entertainment applications
-fun|org.gimp.GIMP
-fun|org.deskflow.deskflow
-fun|de.schmidhuberj.tubefeeder
