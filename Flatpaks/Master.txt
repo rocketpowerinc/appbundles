@@ -3,3 +3,4 @@ org.gimp.GIMP
 org.libreoffice.LibreOffice
 com.visualstudio.code
 org.deskflow.deskflow
+de.schmidhuberj.tubefeeder
