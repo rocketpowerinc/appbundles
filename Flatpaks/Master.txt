@@ -1,9 +1,9 @@
 # Productivity applications
-Productivity|Spotify|com.spotify.Client
-Productivity|LibreOffice|org.libreoffice.LibreOffice
-Productivity|Visual Studio Code|com.visualstudio.code
+Productivity|com.spotify.Client|Spotify
+Productivity|org.libreoffice.LibreOffice|LibreOffice
+Productivity|com.visualstudio.code|Visual Studio Code
 
 # Entertainment applications
-Entertainment|GIMP|org.gimp.GIMP
-Entertainment|Deskflow|org.deskflow.deskflow
-Entertainment|TubeFeeder|de.schmidhuberj.tubefeeder
+Entertainment|org.gimp.GIMP|GIMP
+Entertainment|org.deskflow.deskflow|Deskflow
+Entertainment|de.schmidhuberj.tubefeeder|TubeFeeder
