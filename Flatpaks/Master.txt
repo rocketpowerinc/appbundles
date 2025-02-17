@@ -1,0 +1,4 @@
+com.spotify.Client
+org.gimp.GIMP
+org.libreoffice.LibreOffice
+com.visualstudio.code
