@@ -27,7 +27,6 @@ CLI Tools|cockpit
 CLI Tools|cowsay
 CLI Tools|cron
 CLI Tools|curl
-CLI Tools|curl
 CLI Tools|dmidecode
 CLI Tools|dmenu
 CLI Tools|docker
