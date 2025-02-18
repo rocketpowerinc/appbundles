@@ -1,0 +1,14 @@
+# Productivity applications
+Productivity|yad
+Productivity|gh
+Productivity|git
+Productivity|gnome-text-editor
+
+# CLI Tools
+CLI Tools|jq
+CLI Tools|curl
+CLI Tools|wget
+CLI Tools|exa
+CLI Tools|nala
+CLI Tools|xclip
+CLI Tools|locate
