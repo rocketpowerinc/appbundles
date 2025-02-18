@@ -66,7 +66,7 @@ CLI Tools|netdata
 CLI Tools|nettools
 CLI Tools|nmap
 CLI Tools|nvme-cli
-CLI Tools|pciutils #important for something?
+CLI Tools|pciutils
 CLI Tools|pkg-config
 CLI Tools|plocate
 CLI Tools|powertop
