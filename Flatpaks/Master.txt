@@ -18,14 +18,45 @@ com.discordapp.Discord
 com.todoist.Todoist
 org.standardnotes.standardnotes
 md.obsidian.Obsidian
+flathub io.ente.auth
+com.bitwarden.desktop
+com.protonvpn.www
+me.proton.Mail
+io.github.brunofin.Cohesion
+chat.simplex.simplex
+org.kde.yakuake
+
+# Zip
+org.gnome.FileRoller
+io.github.peazip.PeaZip
+
+# Monitors
+org.gnome.Logs
+io.missioncenter.MissionCenter
+io.github.nokse22.inspector
+com.kgurgul.cpuinfo
+org.gnome.baobab
+
+# Iso
+org.kde.isoimagewriter
+com.system76.Popsicle
+org.raspberrypi.rpi-imager
+
 
 # Design
 org.blender.Blender
 org.gimp.GIMP
+com.icons8.Lunacy
+com.authormore.penpotdesktop
+org.kde.kdenlive
+org.inkscape.Inkscape
+com.obsproject.Studio
 
 # Professional
 io.github.dubstar_04.design
 org.qgis.qgis
+com.sweethome3d.Sweethome3d
+org.freecad.FreeCAD
 
 # Browsers
 org.torproject.torbrowser-launcher
@@ -40,9 +71,22 @@ one.ablaze.floorp
 io.gitlab.librewolf-community
 net.codelogistics.webapps
 dev.qwery.AddWater
+org.ferdium.Ferdium
+re.sonny.Tangram
+com.brave.Browser
 
-# Social
+# Communication
 com.sindresorhus.Caprine
+com.ktechpit.whatsie
+flathub us.zoom.Zoom
+sm.puri.Chatty
+network.loki.Session
+org.telegram.desktop
+org.signal.Signal
+
+# Pdf
+com.sejda.Sejda
+com.github.jeromerobert.pdfarranger
 
 # Productivity
 org.libreoffice.LibreOffice
@@ -50,8 +94,9 @@ com.toolstack.Folio
 com.sublimetext.three
 ir.imansalmani.IPlan
 io.github.alainm23.planify
-flathub org.gnome.GTG
+org.gnome.GTG
 io.appflowy.AppFlowy
+io.anytype.anytype
 com.notesnook.Notesnook
 org.kde.kate
 org.qownnotes.QOwnNotes
@@ -60,14 +105,41 @@ com.logseq.Logseq
 net.cozic.joplin_desktop
 com.github.marktext.marktext
 com.beavernotes.beavernotes
+com.ticktick.TickTick
+org.onlyoffice.desktopeditors
+org.libreoffice.LibreOffice
+dev.neovide.neovide
+fun.vnote.app.VNote
+io.github.suchnsuch.Tangent
+org.b3log.siyuan
+com.github.zadam.trilium
+site.someones.Lonewolf
+net.daase.journable
+org.gnome.Calendar
+
+# Pirate
+org.qbittorrent.qBittorrent
+tv.plex.PlexDesktop
+com.github.iwalton3.jellyfin-media-player
+de.haeckerfelix.Fragments
+com.transmissionbt.Transmission
+org.deluge_torrent.deluge
+tv.kodi.Kodi
+dev.fredol.open-tv
+
+# Servers
+com.nextcloud.desktopclient.nextcloud
+org.jellyfin.JellyfinServer
+media.emby.EmbyServer
 
 # Downloaders
 org.nickvision.tubeconverter
 io.github.giantpinkrobots.varia
-org.qbittorrent.qBittorrent
 de.schmidhuberj.tubefeeder
 com.github.unrud.VideoDownloader
 de.haeckerfelix.Fragments
+net.agalwood.Motrix
+io.github.khaled_0.TubeSync
 
 # Media
 com.spotify.Client
@@ -77,64 +149,113 @@ net.mkiol.Jupii
 com.rafaelmardojai.Blanket
 io.github.seadve.Mousai
 io.bassi.Amberol
-tv.plex.PlexDesktop
+io.freetubeapp.FreeTube
+org.gnome.Music
+flathub io.mpv.Mpv
 
 # Radio-Podcasts
 de.haeckerfelix.Shortwave
 org.gnome.Podcasts
+com.github.louis77.tuner
 
 
 # Rss
 com.gitlab.newsflash
 org.gabmus.gfeeds
+com.belmoussaoui.ReadItLater
 
 
 # Books
-info.febvre.Komikku
 com.github.johnfactotum.Foliate
 com.github.geigi.cozy
+
+# Comics
+app.opencomic.OpenComic
+info.febvre.Komikku
 
 
 # Backups
 org.gnome.World.PikaBackup
 org.gnome.DejaDup
+io.github.pieterdd.RcloneShuttle
+me.kozec.syncthingtk
+io.github.martchus.syncthingtray
+
+# Hardware
+com.feaneron.Boatswain
+io.github.janbar.noson
+io.github.pwr_solaar.solaar
+org.openrgb.OpenRGB
+net.epson.epsonscan2
+
 
 # Dev
 page.codeberg.libre_menu_editor.LibreMenuEditor
 re.sonny.Workbench
+org.gnome.Glade
 org.godotengine.Godot
 com.axosoft.GitKraken
+com.gitbutler.gitbutler
 com.jetbrains.PyCharm-Community
+flathub dev.zed.Zed
+com.vscodium.codium
+me.iepure.devtoolbox
+dev.pulsar_edit.Pulsar
+com.jetbrains.Rider
 
 # Docker-Podman
 com.github.sdv43.whaler
 io.podman_desktop.PodmanDesktop
 com.github.marhkb.Pods
 
+# Fediverse
+dev.geopjr.Tuba
+org.kde.tokodon
+one.jwr.interstellar
+flathub im.riot.Riot
+im.fluffychat.Fluffychat
+
 # Tools
 com.github.finefindus.eyedropper
 com.vixalien.sticky
-io.missioncenter.MissionCenter
 io.github.jean28518.Linux-Assistant
 dev.serebit.Waycheck
 com.leinardi.gwe
 io.github.vikdevelop.SaveDesktop
 re.sonny.Junction
 app.drey.Warp
-com.warlordsoftwares.formatlab
-org.gnome.Cheese
-org.gnome.Geary
-org.gustavoperedo.FontDownloader
 org.gabmus.whatip
-com.system76.Popsicle
-org.openrgb.OpenRGB
 com.github.hluk.copyq
-flathub de.swsnr.turnon
+de.swsnr.turnon
 re.sonny.Retro
 io.github.zefr0x.hashes
+org.bleachbit.BleachBit
+com.github.devalien.workspaces
+
+# Converters
+garden.jamie.Morphosis
+com.warlordsoftwares.formatlab
+fr.handbrake.ghb
+com.github.robertsanseries.ciano
+
+# Photo
+org.gnome.Shotwell
+org.gnome.Cheese
+com.endlessm.photos
+io.github.adrienverge.PhotoCollage
+
+# Email
+org.gnome.Evolution
+org.gnome.Geary
+
+# Assets
+org.gnome.design.IconLibrary
+org.gustavoperedo.FontDownloader
+org.gnome.Characters
+com.tomjwatson.Emote
 
 # File Manager
-flathub org.kde.dolphin
+org.kde.dolphin
 org.kde.index
 
 # Weather
@@ -149,6 +270,7 @@ com.rustdesk.RustDesk
 
 # Gnome
 ca.desrt.dconf-editor
+io.github.realmazharhussain.GdmSettings
 
 # AI
 io.github.qwersyk.Newelle
@@ -161,16 +283,81 @@ dev.geopjr.Collision
 fr.romainvigier.MetadataCleaner
 io.github.najepaliya.kleaner
 com.gitlab.davem.ClamTk
+org.cryptomator.Cryptomator
+org.gnome.seahorse.Application
+org.gnome.World.Secrets
+com.belmoussaoui.Authenticator
+org.onionshare.OnionShare
+me.proton.Pass
 
 # Gaming
-page.kramo.Cartridges
 com.heroicgameslauncher.hgl
-net.lutris.Lutris
 net.davidotek.pupgui2
+com.github.Matoking.protontricks
 com.github.mtkennerly.ludusavi
+net.lutris.Lutris
+org.solarus_games.solarus.Launcher
+com.valvesoftware.SteamLink
+dev.lizardbyte.app.Sunshine
+com.moonlight_stream.Moonlight
+
+
+# Emulation
+org.libretro.RetroArch
+org.pegasus_frontend.Pegasus
+page.kramo.Cartridges
+com.steamgriddb.steam-rom-manager
+ca.parallel_launcher.ParallelLauncher
+io.mgba.mGBA
+io.github.xyproto.zsnes
+org.DolphinEmu.dolphin-emu
+net.kuribo64.melonDS
+io.github.simple64.simple64
+org.ppsspp.PPSSPP
+net.pcsx2.PCSX2
+io.github.ryubing.Ryujinx
+io.github.sameboy.SameBoy
+org.duckstation.DuckStation
+app.xemu.xemu
+com.snes9x.Snes9x
+info.cemu.Cemu
+com.dosbox_x.DOSBox-X
+org.desmume.DeSmuME
+ca._0ldsk00l.Nestopia
+org.purei.Play
+net.rpcs3.RPCS3
+org.flycast.Flycast
+org.scummvm.ScummVM
 
 # Games
 com.play0ad.zeroad
+com.pokemmo.PokeMMO
+org.xonotic.Xonotic
+net.freerct.FreeRCT
+org.tuxemon.Tuxemon
+net.supertuxkart.SuperTuxKart
+net.openra.OpenRA
+io.github.lethal_guitar.RigelEngine
+io.github.fabiangreffrath.Doom
+io.github.maddecoder.Classic-RBDOOM-3-BFG
+org.gottcode.Gottet
+io.github.snesrev.Zelda3
+org.gnome.Aisleriot
+org.kde.kbreakout
+com.mojang.Minecraft
+com.github.k4zmu2a.spacecadetpinball
+com.agateau.PixelWheels
+com.endlessnetwork.aqueducts
+org.diasurgical.DevilutionX
+io.itch.tx00100xt.SeriousSamClassic-VK
+sh.ppy.osu
+net.sourceforge.fretsonfire
+io.github.heathcliff26.go-minesweeper
+net.sourceforge.mars-game
+net.sourceforge.chromium-bsu
+io.github.pastthepixels.InfiniteShooter
+org.kde.kapman
+
 
 # Steam Deck
 com.steamdeckrepo.manager
@@ -178,17 +365,28 @@ net.retrodeck.retrodeck
 
 # Wallpapers
 io.github.jeffshee.Hidamari
+org.gabmus.hydrapaper
+io.github.davidoc26.wallpaper_selector
+in.bharatkalluri.splash
 
 # Shortcuts
 io.unobserved.espansoGUI
 io.github.andreibachim.shortcut
 io.github.fabrialberio.pinapp
 
+# Finance
+io.greenfire.Greenery
+org.nickvision.money
+
 # Doomsday
 org.kiwix.desktop
 com.google.EarthPro
-flathub org.gnome.Maps
+org.gnome.Maps
 app.organicmaps.desktop
+org.gnome.Recipes
+dev.geopjr.Archives
+io.github.fkinoshita.Telegraph
+nl.v0yd.Capsule
 
 # Religion
 life.bolls.bolls
@@ -197,13 +395,17 @@ net.lugsole.bible_gui
 io.github.roseblume.rosary
 
 
-# Kids
+# Kids-Coding
 edu.mit.Scratch
 dev.tchx84.Gameeky
 com.hack_computer.Clubhouse
 com.endlessnetwork.fablemaker
+org.opensurge2d.OpenSurge
+com.gamestarmechanic.gamestarmechanic
 
 # Home School
+org.endlessos.Key
+org.learningequality.Kolibri
 dev.mufeed.Wordbook
 org.kde.CrowTranslate
 im.bernard.Memorado
@@ -211,8 +413,44 @@ org.sugarlabs.SolarSystem
 org.kde.klettres
 org.learningequality.Kolibri
 io.github.josephmawa.Egghead
-org.endlessos.Key
 dev.mariinkys.Oboete
-org.nickvision.money
 org.kde.kgeography
 ro.go.hmlendea.DL-Desktop
+com.inform7.IDE
+app.drey.Dialect
+re.sonny.Eloquent
+dev.bragefuglseth.Keypunch
+com.github.hugolabe.Wike
+org.gnome.gbrainy
+flathub org.kde.artikulate
+net.sourceforge.artha.Artha
+org.kde.kcalc
+dev.storyapps.starc
+se.sjoerd.Graphs
+org.tuxpaint.Tuxpaint
+org.kde.marble
+org.stellarium.Stellarium
+org.sugarlabs.Words
+
+# Workout
+com.enjoyingfoss.feeel
+org.sugarlabs.SwiftFeet
+
+# Electrical
+io.github.hamza_algohary.Coulomb
+com.kavilgroup.gelectrical
+com.oyajun.ColorCode
+
+# Music-Class
+dev.bragefuglseth.Fretboard
+ar.com.tuxguitar.TuxGuitar
+io.github.revisto.drum-machine
+org.sugarlabs.MusicKeyboard
+org.kde.minuet
+
+# Games-Educational
+org.gnome.Crosswords
+com.endlessnetwork.MidnightmareTeddy
+com.github.avojak.warble
+app.drey.MultiplicationPuzzle
+org.gnome.Chess
