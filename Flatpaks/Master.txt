@@ -1,9 +1,218 @@
-# Productivity applications
-Productivity|com.spotify.Client
-Productivity|org.libreoffice.LibreOffice
-Productivity|com.visualstudio.code
+# Essentials
+com.raggesilver.BlackBox
+com.github.tchx84.Flatseal
+org.deskflow.deskflow
+io.github.flattool.Warehouse
+com.google.AndroidStudio
+org.localsend.localsend_app
+net.nokyan.Resources
+io.github.shiftey.Desktop
+dev.deedles.Trayscale
+app.devsuite.Ptyxis
+org.videolan.VLC
+org.mozilla.Thunderbird
+com.visualstudio.code
+org.mozilla.firefox
+com.valvesoftware.Steam
+com.discordapp.Discord
+com.todoist.Todoist
+org.standardnotes.standardnotes
+md.obsidian.Obsidian
 
-# Entertainment applications
-Entertainment|org.gimp.GIMP
-Entertainment|org.deskflow.deskflow
-Entertainment|de.schmidhuberj.tubefeeder
+# Design
+org.blender.Blender
+org.gimp.GIMP
+
+# Professional
+io.github.dubstar_04.design
+org.qgis.qgis
+
+# Browsers
+org.torproject.torbrowser-launcher
+app.zen_browser.zen
+com.microsoft.Edge
+com.google.Chrome
+org.chromium.Chromium
+net.mullvad.MullvadBrowser
+org.qutebrowser.qutebrowser
+org.gnome.Epiphany
+one.ablaze.floorp
+io.gitlab.librewolf-community
+net.codelogistics.webapps
+dev.qwery.AddWater
+
+# Social
+com.sindresorhus.Caprine
+
+# Productivity
+org.libreoffice.LibreOffice
+com.toolstack.Folio
+com.sublimetext.three
+ir.imansalmani.IPlan
+io.github.alainm23.planify
+flathub org.gnome.GTG
+io.appflowy.AppFlowy
+com.notesnook.Notesnook
+org.kde.kate
+org.qownnotes.QOwnNotes
+com.simplenote.Simplenote
+com.logseq.Logseq
+net.cozic.joplin_desktop
+com.github.marktext.marktext
+com.beavernotes.beavernotes
+
+# Downloaders
+org.nickvision.tubeconverter
+io.github.giantpinkrobots.varia
+org.qbittorrent.qBittorrent
+de.schmidhuberj.tubefeeder
+com.github.unrud.VideoDownloader
+de.haeckerfelix.Fragments
+
+# Media
+com.spotify.Client
+org.nickvision.cavalier
+org.gnome.Totem
+net.mkiol.Jupii
+com.rafaelmardojai.Blanket
+io.github.seadve.Mousai
+io.bassi.Amberol
+tv.plex.PlexDesktop
+
+# Radio-Podcasts
+de.haeckerfelix.Shortwave
+org.gnome.Podcasts
+
+
+# Rss
+com.gitlab.newsflash
+org.gabmus.gfeeds
+
+
+# Books
+info.febvre.Komikku
+com.github.johnfactotum.Foliate
+com.github.geigi.cozy
+
+
+# Backups
+org.gnome.World.PikaBackup
+org.gnome.DejaDup
+
+# Dev
+page.codeberg.libre_menu_editor.LibreMenuEditor
+re.sonny.Workbench
+org.godotengine.Godot
+com.axosoft.GitKraken
+com.jetbrains.PyCharm-Community
+
+# Docker-Podman
+com.github.sdv43.whaler
+io.podman_desktop.PodmanDesktop
+com.github.marhkb.Pods
+
+# Tools
+com.github.finefindus.eyedropper
+com.vixalien.sticky
+io.missioncenter.MissionCenter
+io.github.jean28518.Linux-Assistant
+dev.serebit.Waycheck
+com.leinardi.gwe
+io.github.vikdevelop.SaveDesktop
+re.sonny.Junction
+app.drey.Warp
+com.warlordsoftwares.formatlab
+org.gnome.Cheese
+org.gnome.Geary
+org.gustavoperedo.FontDownloader
+org.gabmus.whatip
+com.system76.Popsicle
+org.openrgb.OpenRGB
+com.github.hluk.copyq
+flathub de.swsnr.turnon
+re.sonny.Retro
+io.github.zefr0x.hashes
+
+# File Manager
+flathub org.kde.dolphin
+org.kde.index
+
+# Weather
+io.github.amit9838.mousam
+
+# Virtualization
+org.virt_manager.virt-viewer
+io.github.dvlv.boxbuddyrs
+org.gnome.Boxes
+com.usebottles.bottles
+com.rustdesk.RustDesk
+
+# Gnome
+ca.desrt.dconf-editor
+
+# AI
+io.github.qwersyk.Newelle
+io.github.Bavarder.Bavarder
+com.jeffser.Alpaca
+
+# Security
+com.github.ADBeveridge.Raider
+dev.geopjr.Collision
+fr.romainvigier.MetadataCleaner
+io.github.najepaliya.kleaner
+com.gitlab.davem.ClamTk
+
+# Gaming
+page.kramo.Cartridges
+com.heroicgameslauncher.hgl
+net.lutris.Lutris
+net.davidotek.pupgui2
+com.github.mtkennerly.ludusavi
+
+# Games
+com.play0ad.zeroad
+
+# Steam Deck
+com.steamdeckrepo.manager
+net.retrodeck.retrodeck
+
+# Wallpapers
+io.github.jeffshee.Hidamari
+
+# Shortcuts
+io.unobserved.espansoGUI
+io.github.andreibachim.shortcut
+io.github.fabrialberio.pinapp
+
+# Doomsday
+org.kiwix.desktop
+com.google.EarthPro
+flathub org.gnome.Maps
+app.organicmaps.desktop
+
+# Religion
+life.bolls.bolls
+org.biblemulti.thelife
+net.lugsole.bible_gui
+io.github.roseblume.rosary
+
+
+# Kids
+edu.mit.Scratch
+dev.tchx84.Gameeky
+com.hack_computer.Clubhouse
+com.endlessnetwork.fablemaker
+
+# Home School
+dev.mufeed.Wordbook
+org.kde.CrowTranslate
+im.bernard.Memorado
+org.sugarlabs.SolarSystem
+org.kde.klettres
+org.learningequality.Kolibri
+io.github.josephmawa.Egghead
+org.endlessos.Key
+dev.mariinkys.Oboete
+org.nickvision.money
+org.kde.kgeography
+ro.go.hmlendea.DL-Desktop

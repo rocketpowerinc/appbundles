@@ -68,6 +68,7 @@ CLI Tools|pciutils
 CLI Tools|pkg-config
 CLI Tools|plocate
 CLI Tools|powertop
+CLI Tools|quickemu
 CLI Tools|ripgrep
 CLI Tools|rofi
 CLI Tools|rustscan
@@ -79,7 +80,7 @@ CLI Tools|topgrade
 CLI Tools|trash-cli
 CLI Tools|ulauncher
 CLI Tools|unzip
-CLI Tools|unstable.powershell
+CLI Tools|powershell
 CLI Tools|variety
 CLI Tools|virt-viewer
 CLI Tools|wget
