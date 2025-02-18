@@ -1,5 +1,6 @@
 # Productivity applications
 Productivity|yad
+Productivity|zenity
 Productivity|gh
 Productivity|git
 Productivity|gnome-text-editor
