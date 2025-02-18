@@ -105,7 +105,7 @@ GUI Tools|conky
 GUI Tools|obsidian
 GUI Tools|qbittorrent
 GUI Tools|sticky
-GUI Tools|vscode #use this over the flatpak version so in shells they see the word code therefore my vspowershell custom profil will work
+GUI Tools|vscode
 GUI Tools|whatip
 
 # Media
