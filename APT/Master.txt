@@ -1,15 +1,18 @@
 # Productivity applications
-Productivity|yad
-Productivity|zenity
-Productivity|gh
-Productivity|git
 Productivity|gnome-text-editor
 
 # CLI Tools
-CLI Tools|jq
 CLI Tools|curl
-CLI Tools|wget
 CLI Tools|exa
-CLI Tools|nala
-CLI Tools|xclip
+CLI Tools|fd
+CLI Tools|fzf
+CLI Tools|gh
+CLI Tools|git
+CLI Tools|jq
 CLI Tools|locate
+CLI Tools|nala
+CLI Tools|ripgrep
+CLI Tools|wget
+CLI Tools|xclip
+CLI Tools|yad
+CLI Tools|zenity
