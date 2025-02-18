@@ -1,0 +1,128 @@
+# Backups
+Backups|cryptomator
+Backups|megasync
+Backups|pika-backup
+Backups|rclone
+Backups|rclone-browser
+Backups|veracrypt
+
+# Browsers
+Browsers|firefox
+Browsers|mullvad-browser
+
+# CLI Tools
+CLI Tools|alacritty
+CLI Tools|appimage-run
+CLI Tools|asciiquarium
+CLI Tools|autojump
+CLI Tools|bash
+CLI Tools|bat
+CLI Tools|bfs
+CLI Tools|binutils
+CLI Tools|broot
+CLI Tools|cmatrix
+CLI Tools|colordiff
+CLI Tools|coreutils
+CLI Tools|cockpit
+CLI Tools|cowsay
+CLI Tools|cron
+CLI Tools|curl
+CLI Tools|curl
+CLI Tools|dmidecode
+CLI Tools|dmenu
+CLI Tools|docker
+CLI Tools|docker-compose
+CLI Tools|dua #disc Analyser
+CLI Tools|du-dust #disc Analyser
+CLI Tools|duf #disc Usage
+CLI Tools|exa
+CLI Tools|fakeroot
+CLI Tools|fd
+CLI Tools|ffmpeg
+CLI Tools|figlet
+CLI Tools|findutils
+CLI Tools|fish
+CLI Tools|fzf
+CLI Tools|gcc
+CLI Tools|gdu
+CLI Tools|gh
+CLI Tools|git
+CLI Tools|git
+CLI Tools|glow
+CLI Tools|gnome.zenity
+CLI Tools|gnugrep
+CLI Tools|gnumake
+CLI Tools|gum
+CLI Tools|hddtemp
+CLI Tools|helix
+CLI Tools|htop
+CLI Tools|inetutils
+CLI Tools|lm_sensors
+CLI Tools|lsb-release
+CLI Tools|lynis
+CLI Tools|micro
+CLI Tools|neofetch
+CLI Tools|netdata
+CLI Tools|nettools
+CLI Tools|nmap
+CLI Tools|nvme-cli
+CLI Tools|pciutils #important for something?
+CLI Tools|pkg-config
+CLI Tools|plocate
+CLI Tools|powertop
+CLI Tools|ripgrep
+CLI Tools|rofi
+CLI Tools|rustscan
+CLI Tools|shellcheck
+CLI Tools|starship
+CLI Tools|sysstat
+CLI Tools|tldr
+CLI Tools|topgrade
+CLI Tools|trash-cli
+CLI Tools|ulauncher
+CLI Tools|unzip
+CLI Tools|unstable.powershell
+CLI Tools|variety
+CLI Tools|virt-viewer
+CLI Tools|wget
+CLI Tools|wget
+CLI Tools|xclip
+CLI Tools|yad
+CLI Tools|zellij
+CLI Tools|zip
+CLI Tools|zoxide
+CLI Tools|zsh
+CLI Tools|zerotierone
+
+# DEV
+DEV|gcolor3
+DEV|godot_4
+DEV|jetbrains.rider
+
+# GUI Tools
+GUI Tools|blackbox-terminal
+GUI Tools|conky
+GUI Tools|obsidian
+GUI Tools|qbittorrent
+GUI Tools|sticky
+GUI Tools|vscode #use this over the flatpak version so in shells they see the word code therefore my vspowershell custom profil will work
+GUI Tools|whatip
+
+# Media
+Media|amberol
+Media|gnome.totem
+Media|spotify
+Media|totem-pl-parser
+Media|vlc
+
+# Rsync with encryption
+Rsync with encryption|gnupg
+Rsync with encryption|gpg-tui
+Rsync with encryption|rsync
+
+# Thunar
+Thunar|xfce.thunar
+Thunar|xfce.thunar-archive-plugin
+Thunar|xfce.thunar-dropbox-plugin
+Thunar|xfce.thunar-media-tags-plugin
+Thunar|xfce.thunar-volman
