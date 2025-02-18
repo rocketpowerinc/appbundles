@@ -1,456 +1,428 @@
 # Essentials
-com.raggesilver.BlackBox
-com.github.tchx84.Flatseal
-org.deskflow.deskflow
-io.github.flattool.Warehouse
-com.google.AndroidStudio
-org.localsend.localsend_app
-net.nokyan.Resources
-io.github.shiftey.Desktop
-dev.deedles.Trayscale
-app.devsuite.Ptyxis
-org.videolan.VLC
-org.mozilla.Thunderbird
-com.visualstudio.code
-org.mozilla.firefox
-com.valvesoftware.Steam
-com.discordapp.Discord
-com.todoist.Todoist
-org.standardnotes.standardnotes
-md.obsidian.Obsidian
-flathub io.ente.auth
-com.bitwarden.desktop
-com.protonvpn.www
-me.proton.Mail
-io.github.brunofin.Cohesion
-chat.simplex.simplex
-org.kde.yakuake
-
-# Zip
-org.gnome.FileRoller
-io.github.peazip.PeaZip
-
-# Monitors
-org.gnome.Logs
-io.missioncenter.MissionCenter
-io.github.nokse22.inspector
-com.kgurgul.cpuinfo
-org.gnome.baobab
-
-# Iso
-org.kde.isoimagewriter
-com.system76.Popsicle
-org.raspberrypi.rpi-imager
-
-
-# Design
-org.blender.Blender
-org.gimp.GIMP
-com.icons8.Lunacy
-com.authormore.penpotdesktop
-org.kde.kdenlive
-org.inkscape.Inkscape
-com.obsproject.Studio
-
-# Professional
-io.github.dubstar_04.design
-org.qgis.qgis
-com.sweethome3d.Sweethome3d
-org.freecad.FreeCAD
-
-# Browsers
-org.torproject.torbrowser-launcher
-app.zen_browser.zen
-com.microsoft.Edge
-com.google.Chrome
-org.chromium.Chromium
-net.mullvad.MullvadBrowser
-org.qutebrowser.qutebrowser
-org.gnome.Epiphany
-one.ablaze.floorp
-io.gitlab.librewolf-community
-net.codelogistics.webapps
-dev.qwery.AddWater
-org.ferdium.Ferdium
-re.sonny.Tangram
-com.brave.Browser
-
-# Communication
-com.sindresorhus.Caprine
-com.ktechpit.whatsie
-flathub us.zoom.Zoom
-sm.puri.Chatty
-network.loki.Session
-org.telegram.desktop
-org.signal.Signal
-
-# Pdf
-com.sejda.Sejda
-com.github.jeromerobert.pdfarranger
-
-# Productivity
-org.libreoffice.LibreOffice
-com.toolstack.Folio
-com.sublimetext.three
-ir.imansalmani.IPlan
-io.github.alainm23.planify
-org.gnome.GTG
-io.appflowy.AppFlowy
-io.anytype.anytype
-com.notesnook.Notesnook
-org.kde.kate
-org.qownnotes.QOwnNotes
-com.simplenote.Simplenote
-com.logseq.Logseq
-net.cozic.joplin_desktop
-com.github.marktext.marktext
-com.beavernotes.beavernotes
-com.ticktick.TickTick
-org.onlyoffice.desktopeditors
-org.libreoffice.LibreOffice
-dev.neovide.neovide
-fun.vnote.app.VNote
-io.github.suchnsuch.Tangent
-org.b3log.siyuan
-com.github.zadam.trilium
-site.someones.Lonewolf
-net.daase.journable
-org.gnome.Calendar
-
-# Pirate
-org.qbittorrent.qBittorrent
-tv.plex.PlexDesktop
-com.github.iwalton3.jellyfin-media-player
-de.haeckerfelix.Fragments
-com.transmissionbt.Transmission
-org.deluge_torrent.deluge
-tv.kodi.Kodi
-dev.fredol.open-tv
-
-# Servers
-com.nextcloud.desktopclient.nextcloud
-org.jellyfin.JellyfinServer
-media.emby.EmbyServer
-
-# Downloaders
-org.nickvision.tubeconverter
-io.github.giantpinkrobots.varia
-de.schmidhuberj.tubefeeder
-com.github.unrud.VideoDownloader
-de.haeckerfelix.Fragments
-net.agalwood.Motrix
-io.github.khaled_0.TubeSync
-
-# Media
-com.spotify.Client
-org.nickvision.cavalier
-org.gnome.Totem
-net.mkiol.Jupii
-com.rafaelmardojai.Blanket
-io.github.seadve.Mousai
-io.bassi.Amberol
-io.freetubeapp.FreeTube
-org.gnome.Music
-flathub io.mpv.Mpv
-
-# Radio-Podcasts
-de.haeckerfelix.Shortwave
-org.gnome.Podcasts
-com.github.louis77.tuner
-
-
-# Rss
-com.gitlab.newsflash
-org.gabmus.gfeeds
-com.belmoussaoui.ReadItLater
-
-
-# Books
-com.github.johnfactotum.Foliate
-com.github.geigi.cozy
-
-# Comics
-app.opencomic.OpenComic
-info.febvre.Komikku
-
-
-# Backups
-org.gnome.World.PikaBackup
-org.gnome.DejaDup
-io.github.pieterdd.RcloneShuttle
-me.kozec.syncthingtk
-io.github.martchus.syncthingtray
-
-# Hardware
-com.feaneron.Boatswain
-io.github.janbar.noson
-io.github.pwr_solaar.solaar
-org.openrgb.OpenRGB
-net.epson.epsonscan2
-
-
-# Dev
-page.codeberg.libre_menu_editor.LibreMenuEditor
-re.sonny.Workbench
-org.gnome.Glade
-org.godotengine.Godot
-com.axosoft.GitKraken
-com.gitbutler.gitbutler
-com.jetbrains.PyCharm-Community
-flathub dev.zed.Zed
-com.vscodium.codium
-me.iepure.devtoolbox
-dev.pulsar_edit.Pulsar
-com.jetbrains.Rider
-
-# Docker-Podman
-com.github.sdv43.whaler
-io.podman_desktop.PodmanDesktop
-com.github.marhkb.Pods
-
-# Fediverse
-dev.geopjr.Tuba
-org.kde.tokodon
-one.jwr.interstellar
-flathub im.riot.Riot
-im.fluffychat.Fluffychat
-
-# Tools
-com.github.finefindus.eyedropper
-com.vixalien.sticky
-io.github.jean28518.Linux-Assistant
-dev.serebit.Waycheck
-com.leinardi.gwe
-io.github.vikdevelop.SaveDesktop
-re.sonny.Junction
-app.drey.Warp
-org.gabmus.whatip
-com.github.hluk.copyq
-de.swsnr.turnon
-re.sonny.Retro
-io.github.zefr0x.hashes
-org.bleachbit.BleachBit
-com.github.devalien.workspaces
-
-# Converters
-garden.jamie.Morphosis
-com.warlordsoftwares.formatlab
-fr.handbrake.ghb
-com.github.robertsanseries.ciano
-
-# Photo
-org.gnome.Shotwell
-org.gnome.Cheese
-com.endlessm.photos
-io.github.adrienverge.PhotoCollage
-
-# Email
-org.gnome.Evolution
-org.gnome.Geary
-
-# Assets
-org.gnome.design.IconLibrary
-org.gustavoperedo.FontDownloader
-org.gnome.Characters
-com.tomjwatson.Emote
-
-# File Manager
-org.kde.dolphin
-org.kde.index
-
-# Weather
-io.github.amit9838.mousam
-
-# Virtualization
-org.virt_manager.virt-viewer
-io.github.dvlv.boxbuddyrs
-org.gnome.Boxes
-com.usebottles.bottles
-com.rustdesk.RustDesk
-
-# Gnome
-ca.desrt.dconf-editor
-io.github.realmazharhussain.GdmSettings
+Essentials|com.raggesilver.BlackBox
+Essentials|com.github.tchx84.Flatseal
+Essentials|org.deskflow.deskflow
+Essentials|io.github.flattool.Warehouse
+Essentials|com.google.AndroidStudio
+Essentials|org.localsend.localsend_app
+Essentials|net.nokyan.Resources
+Essentials|io.github.shiftey.Desktop
+Essentials|dev.deedles.Trayscale
+Essentials|app.devsuite.Ptyxis
+Essentials|org.videolan.VLC
+Essentials|org.mozilla.Thunderbird
+Essentials|com.visualstudio.code
+Essentials|org.mozilla.firefox
+Essentials|com.valvesoftware.Steam
+Essentials|com.discordapp.Discord
+Essentials|com.todoist.Todoist
+Essentials|org.standardnotes.standardnotes
+Essentials|md.obsidian.Obsidian
+Essentials|io.ente.auth
+Essentials|com.bitwarden.desktop
+Essentials|com.protonvpn.www
+Essentials|me.proton.Mail
+Essentials|io.github.brunofin.Cohesion
+Essentials|chat.simplex.simplex
+Essentials|org.kde.yakuake
+Essentials|io.unobserved.espansoGUI
 
 # AI
-io.github.qwersyk.Newelle
-io.github.Bavarder.Bavarder
-com.jeffser.Alpaca
+AI|io.github.qwersyk.Newelle
+AI|io.github.Bavarder.Bavarder
+AI|com.jeffser.Alpaca
 
-# Security
-com.github.ADBeveridge.Raider
-dev.geopjr.Collision
-fr.romainvigier.MetadataCleaner
-io.github.najepaliya.kleaner
-com.gitlab.davem.ClamTk
-org.cryptomator.Cryptomator
-org.gnome.seahorse.Application
-org.gnome.World.Secrets
-com.belmoussaoui.Authenticator
-org.onionshare.OnionShare
-me.proton.Pass
+# Assets
+Assets|org.gnome.design.IconLibrary
+Assets|org.gustavoperedo.FontDownloader
+Assets|org.gnome.Characters
+Assets|com.tomjwatson.Emote
 
-# Gaming
-com.heroicgameslauncher.hgl
-net.davidotek.pupgui2
-com.github.Matoking.protontricks
-com.github.mtkennerly.ludusavi
-net.lutris.Lutris
-org.solarus_games.solarus.Launcher
-com.valvesoftware.SteamLink
-dev.lizardbyte.app.Sunshine
-com.moonlight_stream.Moonlight
+# Backups
+Backups|org.gnome.World.PikaBackup
+Backups|org.gnome.DejaDup
+Backups|io.github.pieterdd.RcloneShuttle
+Backups|me.kozec.syncthingtk
+Backups|io.github.martchus.syncthingtray
 
+# Books
+|com.github.johnfactotum.Foliate
+|com.github.geigi.cozy
 
-# Emulation
-org.libretro.RetroArch
-org.pegasus_frontend.Pegasus
-page.kramo.Cartridges
-com.steamgriddb.steam-rom-manager
-ca.parallel_launcher.ParallelLauncher
-io.mgba.mGBA
-io.github.xyproto.zsnes
-org.DolphinEmu.dolphin-emu
-net.kuribo64.melonDS
-io.github.simple64.simple64
-org.ppsspp.PPSSPP
-net.pcsx2.PCSX2
-io.github.ryubing.Ryujinx
-io.github.sameboy.SameBoy
-org.duckstation.DuckStation
-app.xemu.xemu
-com.snes9x.Snes9x
-info.cemu.Cemu
-com.dosbox_x.DOSBox-X
-org.desmume.DeSmuME
-ca._0ldsk00l.Nestopia
-org.purei.Play
-net.rpcs3.RPCS3
-org.flycast.Flycast
-org.scummvm.ScummVM
+# Browsers
+Browsers|org.torproject.torbrowser-launcher
+Browsers|app.zen_browser.zen
+Browsers|com.microsoft.Edge
+Browsers|com.google.Chrome
+Browsers|org.chromium.Chromium
+Browsers|net.mullvad.MullvadBrowser
+Browsers|org.qutebrowser.qutebrowser
+Browsers|org.gnome.Epiphany
+Browsers|one.ablaze.floorp
+Browsers|io.gitlab.librewolf-community
+Browsers|net.codelogistics.webapps
+Browsers|dev.qwery.AddWater
+Browsers|org.ferdium.Ferdium
+Browsers|re.sonny.Tangram
+Browsers|com.brave.Browser
 
-# Games
-com.play0ad.zeroad
-com.pokemmo.PokeMMO
-org.xonotic.Xonotic
-net.freerct.FreeRCT
-org.tuxemon.Tuxemon
-net.supertuxkart.SuperTuxKart
-net.openra.OpenRA
-io.github.lethal_guitar.RigelEngine
-io.github.fabiangreffrath.Doom
-io.github.maddecoder.Classic-RBDOOM-3-BFG
-org.gottcode.Gottet
-io.github.snesrev.Zelda3
-org.gnome.Aisleriot
-org.kde.kbreakout
-com.mojang.Minecraft
-com.github.k4zmu2a.spacecadetpinball
-com.agateau.PixelWheels
-com.endlessnetwork.aqueducts
-org.diasurgical.DevilutionX
-io.itch.tx00100xt.SeriousSamClassic-VK
-sh.ppy.osu
-net.sourceforge.fretsonfire
-io.github.heathcliff26.go-minesweeper
-net.sourceforge.mars-game
-net.sourceforge.chromium-bsu
-io.github.pastthepixels.InfiniteShooter
-org.kde.kapman
+# Communication
+Communication|com.sindresorhus.Caprine
+Communication|com.ktechpit.whatsie
+Communication|us.zoom.Zoom
+Communication|sm.puri.Chatty
+Communication|network.loki.Session
+Communication|org.telegram.desktop
+Communication|org.signal.Signal
 
+# Comics
+Comics|app.opencomic.OpenComic
+Comics|info.febvre.Komikku
 
-# Steam Deck
-com.steamdeckrepo.manager
-net.retrodeck.retrodeck
+# Containers
+Containers|com.github.sdv43.whaler
+Containers|io.podman_desktop.PodmanDesktop
+Containers|com.github.marhkb.Pods
 
-# Wallpapers
-io.github.jeffshee.Hidamari
-org.gabmus.hydrapaper
-io.github.davidoc26.wallpaper_selector
-in.bharatkalluri.splash
+# Converters
+Converters|garden.jamie.Morphosis
+Converters|com.warlordsoftwares.formatlab
+Converters|fr.handbrake.ghb
+Converters|com.github.robertsanseries.ciano
 
-# Shortcuts
-io.unobserved.espansoGUI
-io.github.andreibachim.shortcut
-io.github.fabrialberio.pinapp
+# Design
+Design|org.blender.Blender
+Design|org.gimp.GIMP
+Design|com.icons8.Lunacy
+Design|com.authormore.penpotdesktop
+Design|org.kde.kdenlive
+Design|org.inkscape.Inkscape
+Design|com.obsproject.Studio
 
-# Finance
-io.greenfire.Greenery
-org.nickvision.money
+# Dev
+Dev|page.codeberg.libre_menu_editor.LibreMenuEditor
+Dev|re.sonny.Workbench
+Dev|org.gnome.Glade
+Dev|org.godotengine.Godot
+Dev|com.axosoft.GitKraken
+Dev|com.gitbutler.gitbutler
+Dev|com.jetbrains.PyCharm-Community
+Dev|dev.zed.Zed
+Dev|com.vscodium.codium
+Dev|me.iepure.devtoolbox
+Dev|dev.pulsar_edit.Pulsar
+Dev|com.jetbrains.Rider
+
 
 # Doomsday
-org.kiwix.desktop
-com.google.EarthPro
-org.gnome.Maps
-app.organicmaps.desktop
-org.gnome.Recipes
-dev.geopjr.Archives
-io.github.fkinoshita.Telegraph
-nl.v0yd.Capsule
-
-# Religion
-life.bolls.bolls
-org.biblemulti.thelife
-net.lugsole.bible_gui
-io.github.roseblume.rosary
-
-
-# Kids-Coding
-edu.mit.Scratch
-dev.tchx84.Gameeky
-com.hack_computer.Clubhouse
-com.endlessnetwork.fablemaker
-org.opensurge2d.OpenSurge
-com.gamestarmechanic.gamestarmechanic
-
-# Home School
-org.endlessos.Key
-org.learningequality.Kolibri
-dev.mufeed.Wordbook
-org.kde.CrowTranslate
-im.bernard.Memorado
-org.sugarlabs.SolarSystem
-org.kde.klettres
-org.learningequality.Kolibri
-io.github.josephmawa.Egghead
-dev.mariinkys.Oboete
-org.kde.kgeography
-ro.go.hmlendea.DL-Desktop
-com.inform7.IDE
-app.drey.Dialect
-re.sonny.Eloquent
-dev.bragefuglseth.Keypunch
-com.github.hugolabe.Wike
-org.gnome.gbrainy
-flathub org.kde.artikulate
-net.sourceforge.artha.Artha
-org.kde.kcalc
-dev.storyapps.starc
-se.sjoerd.Graphs
-org.tuxpaint.Tuxpaint
-org.kde.marble
-org.stellarium.Stellarium
-org.sugarlabs.Words
-
-# Workout
-com.enjoyingfoss.feeel
-org.sugarlabs.SwiftFeet
+Doomsday|org.kiwix.desktop
+Doomsday|com.google.EarthPro
+Doomsday|org.gnome.Maps
+Doomsday|app.organicmaps.desktop
+Doomsday|org.gnome.Recipes
+Doomsday|dev.geopjr.Archives
+Doomsday|io.github.fkinoshita.Telegraph
+Doomsday|nl.v0yd.Capsule
 
 # Electrical
-io.github.hamza_algohary.Coulomb
-com.kavilgroup.gelectrical
-com.oyajun.ColorCode
+Electrical|io.github.hamza_algohary.Coulomb
+Electrical|com.kavilgroup.gelectrical
+Electrical|com.oyajun.ColorCode
 
-# Music-Class
-dev.bragefuglseth.Fretboard
-ar.com.tuxguitar.TuxGuitar
-io.github.revisto.drum-machine
-org.sugarlabs.MusicKeyboard
-org.kde.minuet
+# Emulation
+Emulation|org.libretro.RetroArch
+Emulation|org.pegasus_frontend.Pegasus
+Emulation|page.kramo.Cartridges
+Emulation|com.steamgriddb.steam-rom-manager
+Emulation|ca.parallel_launcher.ParallelLauncher
+Emulation|io.mgba.mGBA
+Emulation|io.github.xyproto.zsnes
+Emulation|org.DolphinEmu.dolphin-emu
+Emulation|net.kuribo64.melonDS
+Emulation|io.github.simple64.simple64
+Emulation|org.ppsspp.PPSSPP
+Emulation|net.pcsx2.PCSX2
+Emulation|io.github.ryubing.Ryujinx
+Emulation|io.github.sameboy.SameBoy
+Emulation|org.duckstation.DuckStation
+Emulation|app.xemu.xemu
+Emulation|com.snes9x.Snes9x
+Emulation|info.cemu.Cemu
+Emulation|com.dosbox_x.DOSBox-X
+Emulation|org.desmume.DeSmuME
+Emulation|ca._0ldsk00l.Nestopia
+Emulation|org.purei.Play
+Emulation|net.rpcs3.RPCS3
+Emulation|org.flycast.Flycast
+Emulation|org.scummvm.ScummVM
+
+
+# Fediverse
+Fediverse|dev.geopjr.Tuba
+Fediverse|org.kde.tokodon
+Fediverse|one.jwr.interstellar
+Fediverse|im.riot.Riot
+Fediverse|im.fluffychat.Fluffychat
+
+# FileManager
+FileManager|org.kde.dolphin
+FileManager|org.kde.index
+
+# Finance
+Finance|io.greenfire.Greenery
+Finance|org.nickvision.money
+
+# Games
+Games|com.play0ad.zeroad
+Games|com.pokemmo.PokeMMO
+Games|org.xonotic.Xonotic
+Games|net.freerct.FreeRCT
+Games|org.tuxemon.Tuxemon
+Games|net.supertuxkart.SuperTuxKart
+Games|net.openra.OpenRA
+Games|io.github.lethal_guitar.RigelEngine
+Games|io.github.fabiangreffrath.Doom
+Games|io.github.maddecoder.Classic-RBDOOM-3-BFG
+Games|org.gottcode.Gottet
+Games|io.github.snesrev.Zelda3
+Games|org.gnome.Aisleriot
+Games|org.kde.kbreakout
+Games|com.mojang.Minecraft
+Games|com.github.k4zmu2a.spacecadetpinball
+Games|com.agateau.PixelWheels
+Games|com.endlessnetwork.aqueducts
+Games|org.diasurgical.DevilutionX
+Games|io.itch.tx00100xt.SeriousSamClassic-VK
+Games|sh.ppy.osu
+Games|net.sourceforge.fretsonfire
+Games|io.github.heathcliff26.go-minesweeper
+Games|net.sourceforge.mars-game
+Games|net.sourceforge.chromium-bsu
+Games|io.github.pastthepixels.InfiniteShooter
+Games|org.kde.kapman
 
 # Games-Educational
-org.gnome.Crosswords
-com.endlessnetwork.MidnightmareTeddy
-com.github.avojak.warble
-app.drey.MultiplicationPuzzle
-org.gnome.Chess
+Games-Educational|org.gnome.Crosswords
+Games-Educational|com.endlessnetwork.MidnightmareTeddy
+Games-Educational|com.github.avojak.warble
+Games-Educational|app.drey.MultiplicationPuzzle
+Games-Educational|org.gnome.Chess
+
+# Gaming
+Gaming|com.heroicgameslauncher.hgl
+Gaming|net.davidotek.pupgui2
+Gaming|com.github.Matoking.protontricks
+Gaming|com.github.mtkennerly.ludusavi
+Gaming|net.lutris.Lutris
+Gaming|org.solarus_games.solarus.Launcher
+Gaming|com.valvesoftware.SteamLink
+Gaming|dev.lizardbyte.app.Sunshine
+Gaming|com.moonlight_stream.Moonlight
+
+# Gnome
+Gnome|ca.desrt.dconf-editor
+Gnome|io.github.realmazharhussain.GdmSettings
+
+# Hardware
+Hardware|com.feaneron.Boatswain
+Hardware|io.github.janbar.noson
+Hardware|io.github.pwr_solaar.solaar
+Hardware|org.openrgb.OpenRGB
+Hardware|net.epson.epsonscan2
+
+# HomeSchool
+HomeSchool|org.endlessos.Key
+HomeSchool|org.learningequality.Kolibri
+HomeSchool|dev.mufeed.Wordbook
+HomeSchool|org.kde.CrowTranslate
+HomeSchool|im.bernard.Memorado
+HomeSchool|org.sugarlabs.SolarSystem
+HomeSchool|org.kde.klettres
+HomeSchool|org.learningequality.Kolibri
+HomeSchool|io.github.josephmawa.Egghead
+HomeSchool|dev.mariinkys.Oboete
+HomeSchool|org.kde.kgeography
+HomeSchool|ro.go.hmlendea.DL-Desktop
+HomeSchool|com.inform7.IDE
+HomeSchool|app.drey.Dialect
+HomeSchool|re.sonny.Eloquent
+HomeSchool|dev.bragefuglseth.Keypunch
+HomeSchool|com.github.hugolabe.Wike
+HomeSchool|org.gnome.gbrainy
+HomeSchool|org.kde.artikulate
+HomeSchool|net.sourceforge.artha.Artha
+HomeSchool|org.kde.kcalc
+HomeSchool|dev.storyapps.starc
+HomeSchool|se.sjoerd.Graphs
+HomeSchool|org.tuxpaint.Tuxpaint
+HomeSchool|org.kde.marble
+HomeSchool|org.stellarium.Stellarium
+HomeSchool|org.sugarlabs.Words
+
+# Iso
+Iso|org.kde.isoimagewriter
+Iso|com.system76.Popsicle
+Iso|org.raspberrypi.rpi-imager
+
+# KidsCoding
+KidsCoding|edu.mit.Scratch
+KidsCoding|dev.tchx84.Gameeky
+KidsCoding|com.hack_computer.Clubhouse
+KidsCoding|com.endlessnetwork.fablemaker
+KidsCoding|org.opensurge2d.OpenSurge
+KidsCoding|com.gamestarmechanic.gamestarmechanic
+
+# Media
+Media|com.spotify.Client
+Media|org.nickvision.cavalier
+Media|org.gnome.Totem
+Media|net.mkiol.Jupii
+Media|com.rafaelmardojai.Blanket
+Media|io.github.seadve.Mousai
+Media|io.bassi.Amberol
+Media|io.freetubeapp.FreeTube
+Media|org.gnome.Music
+Media|io.mpv.Mpv
+
+
+# Monitors
+Monitors|org.gnome.Logs
+Monitors|io.missioncenter.MissionCenter
+Monitors|io.github.nokse22.inspector
+Monitors|com.kgurgul.cpuinfo
+Monitors|org.gnome.baobab
+
+# MusicEducation
+MusicEducation|dev.bragefuglseth.Fretboard
+MusicEducation|ar.com.tuxguitar.TuxGuitar
+MusicEducation|io.github.revisto.drum-machine
+MusicEducation|org.sugarlabs.MusicKeyboard
+MusicEducation|org.kde.minuet
+
+# Pdf
+Pdf|com.sejda.Sejda
+Pdf|com.github.jeromerobert.pdfarranger
+
+# Photo
+Photo|org.gnome.Shotwell
+Photo|org.gnome.Cheese
+Photo|com.endlessm.photos
+Photo|io.github.adrienverge.PhotoCollage
+
+# Pirate
+Pirate|org.qbittorrent.qBittorrent
+Pirate|tv.plex.PlexDesktop
+Pirate|com.github.iwalton3.jellyfin-media-player
+Pirate|de.haeckerfelix.Fragments
+Pirate|com.transmissionbt.Transmission
+Pirate|org.deluge_torrent.deluge
+Pirate|tv.kodi.Kodi
+Pirate|dev.fredol.open-tv
+
+# Podcasts
+Podcasts|org.gnome.Podcasts
+
+# Productivity
+Productivity|org.libreoffice.LibreOffice
+Productivity|com.toolstack.Folio
+Productivity|com.sublimetext.three
+Productivity|ir.imansalmani.IPlan
+Productivity|io.github.alainm23.planify
+Productivity|org.gnome.GTG
+Productivity|io.appflowy.AppFlowy
+Productivity|io.anytype.anytype
+Productivity|com.notesnook.Notesnook
+Productivity|org.kde.kate
+Productivity|org.qownnotes.QOwnNotes
+Productivity|com.simplenote.Simplenote
+Productivity|com.logseq.Logseq
+Productivity|net.cozic.joplin_desktop
+Productivity|com.github.marktext.marktext
+Productivity|com.beavernotes.beavernotes
+Productivity|com.ticktick.TickTick
+Productivity|org.onlyoffice.desktopeditors
+Productivity|org.libreoffice.LibreOffice
+Productivity|dev.neovide.neovide
+Productivity|fun.vnote.app.VNote
+Productivity|io.github.suchnsuch.Tangent
+Productivity|org.b3log.siyuan
+Productivity|com.github.zadam.trilium
+Productivity|site.someones.Lonewolf
+Productivity|net.daase.journable
+Productivity|org.gnome.Calendar
+
+# Radio
+Radio|de.haeckerfelix.Shortwave
+Radio|com.github.louis77.tuner
+
+# Religion
+Religion|life.bolls.bolls
+Religion|org.biblemulti.thelife
+Religion|net.lugsole.bible_gui
+Religion|io.github.roseblume.rosary
+
+# Rss
+Rss|com.gitlab.newsflash
+Rss|org.gabmus.gfeeds
+Rss|com.belmoussaoui.ReadItLater
+
+# Security
+Security|com.github.ADBeveridge.Raider
+Security|dev.geopjr.Collision
+Security|fr.romainvigier.MetadataCleaner
+Security|io.github.najepaliya.kleaner
+Security|com.gitlab.davem.ClamTk
+Security|org.cryptomator.Cryptomator
+Security|org.gnome.seahorse.Application
+Security|org.gnome.World.Secrets
+Security|com.belmoussaoui.Authenticator
+Security|org.onionshare.OnionShare
+Security|me.proton.Pass
+
+# Servers
+Servers|com.nextcloud.desktopclient.nextcloud
+Servers|org.jellyfin.JellyfinServer
+Servers|media.emby.EmbyServer
+
+# Shortcuts
+Shortcuts|io.github.andreibachim.shortcut
+Shortcuts|io.github.fabrialberio.pinapp
+
+# SteamDeck
+SteamDeck|com.steamdeckrepo.manager
+SteamDeck|net.retrodeck.retrodeck
+
+# Tools
+Tools|com.github.finefindus.eyedropper
+Tools|com.vixalien.sticky
+Tools|io.github.jean28518.Linux-Assistant
+Tools|dev.serebit.Waycheck
+Tools|com.leinardi.gwe
+Tools|io.github.vikdevelop.SaveDesktop
+Tools|re.sonny.Junction
+Tools|app.drey.Warp
+Tools|org.gabmus.whatip
+Tools|com.github.hluk.copyq
+Tools|de.swsnr.turnon
+Tools|re.sonny.Retro
+Tools|io.github.zefr0x.hashes
+Tools|org.bleachbit.BleachBit
+Tools|com.github.devalien.workspaces
+
+# Virtualization
+Virtualization|org.virt_manager.virt-viewer
+Virtualization|io.github.dvlv.boxbuddyrs
+Virtualization|org.gnome.Boxes
+Virtualization|com.usebottles.bottles
+Virtualization|com.rustdesk.RustDesk
+
+# Weather
+Weather|io.github.amit9838.mousam
+
+# Workout
+Workout|com.enjoyingfoss.feeel
+Workout|org.sugarlabs.SwiftFeet
+
+# Zip
+Zip|org.gnome.FileRoller
+Zip|io.github.peazip.PeaZip
