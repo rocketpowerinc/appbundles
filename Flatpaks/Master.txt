@@ -31,6 +31,7 @@ Essentials|io.unobserved.espansoGUI
 AI|io.github.qwersyk.Newelle
 AI|io.github.Bavarder.Bavarder
 AI|com.jeffser.Alpaca
+AI|page.codeberg.Imaginer.Imaginer
 
 # Assets
 Assets|org.gnome.design.IconLibrary
@@ -415,6 +416,7 @@ Virtualization|io.github.dvlv.boxbuddyrs
 Virtualization|org.gnome.Boxes
 Virtualization|com.usebottles.bottles
 Virtualization|com.rustdesk.RustDesk
+Virtualization|com.parsecgaming.parsec
 
 # Weather
 Weather|io.github.amit9838.mousam
