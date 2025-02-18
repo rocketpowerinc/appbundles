@@ -32,9 +32,9 @@ CLI Tools|dmidecode
 CLI Tools|dmenu
 CLI Tools|docker
 CLI Tools|docker-compose
-CLI Tools|dua #disc Analyser
-CLI Tools|du-dust #disc Analyser
-CLI Tools|duf #disc Usage
+CLI Tools|dua
+CLI Tools|du-dust
+CLI Tools|duf
 CLI Tools|exa
 CLI Tools|fakeroot
 CLI Tools|fd
@@ -46,7 +46,6 @@ CLI Tools|fzf
 CLI Tools|gcc
 CLI Tools|gdu
 CLI Tools|gh
-CLI Tools|git
 CLI Tools|git
 CLI Tools|glow
 CLI Tools|gnome.zenity
