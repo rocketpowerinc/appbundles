@@ -36,6 +36,7 @@ CLI Tools|du-dust
 CLI Tools|duf
 CLI Tools|eza
 CLI Tools|fakeroot
+CLI Tools|fastfetch
 CLI Tools|fd
 CLI Tools|ffmpeg
 CLI Tools|figlet
@@ -59,7 +60,7 @@ CLI Tools|lm_sensors
 CLI Tools|lsb-release
 CLI Tools|lynis
 CLI Tools|micro
-CLI Tools|neofetch
+CLI Tools|neovim
 CLI Tools|netdata
 CLI Tools|nettools
 CLI Tools|nmap
