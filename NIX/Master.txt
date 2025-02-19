@@ -34,7 +34,7 @@ CLI Tools|docker-compose
 CLI Tools|dua
 CLI Tools|du-dust
 CLI Tools|duf
-CLI Tools|exa
+CLI Tools|eza
 CLI Tools|fakeroot
 CLI Tools|fd
 CLI Tools|ffmpeg
