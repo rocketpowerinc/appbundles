@@ -169,6 +169,10 @@ Fediverse|im.fluffychat.Fluffychat
 FileManager|org.kde.dolphin
 FileManager|org.kde.index
 
+# FileTransfer
+FileTransfer|org.x.Warpinator
+FileTransfer|app.drey.Warp
+
 # Finance
 Finance|io.greenfire.Greenery
 Finance|org.nickvision.money
@@ -350,7 +354,9 @@ Productivity|org.b3log.siyuan
 Productivity|com.github.zadam.trilium
 Productivity|site.someones.Lonewolf
 Productivity|net.daase.journable
-Productivity|org.gnome.Calendar
+Productivity|com.super_productivity.SuperProductivity
+Productivity|io.github.dgsasha.Remembrance
+
 
 # Radio
 Radio|de.haeckerfelix.Shortwave
@@ -361,6 +367,11 @@ Religion|life.bolls.bolls
 Religion|org.biblemulti.thelife
 Religion|net.lugsole.bible_gui
 Religion|io.github.roseblume.rosary
+
+# RemoteDesktop
+RemoteDesktop|org.remmina.Remmina
+RemoteDesktop|com.rustdesk.RustDesk
+RemoteDesktop|com.parsecgaming.parsec
 
 # Rss
 Rss|com.gitlab.newsflash
@@ -393,6 +404,11 @@ Shortcuts|io.github.fabrialberio.pinapp
 SteamDeck|com.steamdeckrepo.manager
 SteamDeck|net.retrodeck.retrodeck
 
+# Time
+Time|org.gnome.Calendar
+Time|re.sonny.Retro
+Time|org.jousse.vincent.Pomodorolm
+
 # Tools
 Tools|com.github.finefindus.eyedropper
 Tools|com.vixalien.sticky
@@ -405,7 +421,6 @@ Tools|app.drey.Warp
 Tools|org.gabmus.whatip
 Tools|com.github.hluk.copyq
 Tools|de.swsnr.turnon
-Tools|re.sonny.Retro
 Tools|io.github.zefr0x.hashes
 Tools|org.bleachbit.BleachBit
 Tools|com.github.devalien.workspaces
@@ -415,8 +430,7 @@ Virtualization|org.virt_manager.virt-viewer
 Virtualization|io.github.dvlv.boxbuddyrs
 Virtualization|org.gnome.Boxes
 Virtualization|com.usebottles.bottles
-Virtualization|com.rustdesk.RustDesk
-Virtualization|com.parsecgaming.parsec
+
 
 # Weather
 Weather|io.github.amit9838.mousam
