@@ -4,7 +4,7 @@ Productivity|gnome-text-editor
 # CLI Tools
 CLI Tools|curl
 CLI Tools|exa
-CLI Tools|fd
+CLI Tools|fd-find
 CLI Tools|fzf
 CLI Tools|gh
 CLI Tools|git
