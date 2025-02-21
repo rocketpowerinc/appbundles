@@ -395,6 +395,7 @@ Security|me.proton.Pass
 Servers|com.nextcloud.desktopclient.nextcloud
 Servers|org.jellyfin.JellyfinServer
 Servers|media.emby.EmbyServer
+Servers|com.cassidyjames.butler
 
 # Shortcuts
 Shortcuts|io.github.andreibachim.shortcut
