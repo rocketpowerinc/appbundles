@@ -16,3 +16,6 @@ CLI Tools|wget
 CLI Tools|xclip
 CLI Tools|yad
 CLI Tools|zenity
+
+# System Tools
+System Tools|gparted
