@@ -1,6 +1,3 @@
-# Productivity applications
-Productivity|gnome-text-editor
-
 # CLI Tools
 CLI Tools|curl
 CLI Tools|exa
@@ -16,6 +13,10 @@ CLI Tools|wget
 CLI Tools|xclip
 CLI Tools|yad
 CLI Tools|zenity
+
+
+# Productivity
+Productivity|gnome-text-editor
 
 # System Tools
 System Tools|gparted
