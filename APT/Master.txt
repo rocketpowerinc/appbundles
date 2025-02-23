@@ -1,4 +1,5 @@
 # CLI Tools
+CLI Tools|ca-certificates
 CLI Tools|curl
 CLI Tools|exa
 CLI Tools|fd-find
@@ -9,12 +10,15 @@ CLI Tools|jq
 CLI Tools|locate
 CLI Tools|nala
 CLI Tools|ripgrep
+CLI Tools|uidmap
 CLI Tools|wget
 CLI Tools|xclip
 CLI Tools|yad
 CLI Tools|zenity
-CLI Tools|ca-certificates
-CLI Tools|uidmap
+
+# Communication
+Communication|kdeconnect
+Communication|gnome-shell-extension-gsconnect
 
 
 # Productivity
@@ -23,6 +27,3 @@ Productivity|gnome-text-editor
 # System Tools
 System Tools|gparted
 
-# Communication
-Communication|kdeconnect
-Communication|gnome-shell-extension-gsconnect
