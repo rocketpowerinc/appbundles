@@ -33,6 +33,9 @@ AI|io.github.Bavarder.Bavarder
 AI|com.jeffser.Alpaca
 AI|page.codeberg.Imaginer.Imaginer
 
+# Android
+Android|org.openandroidinstaller.OpenAndroidInstaller
+
 # Assets
 Assets|org.gnome.design.IconLibrary
 Assets|org.gustavoperedo.FontDownloader
@@ -212,6 +215,7 @@ Games-Educational|com.endlessnetwork.MidnightmareTeddy
 Games-Educational|com.github.avojak.warble
 Games-Educational|app.drey.MultiplicationPuzzle
 Games-Educational|org.gnome.Chess
+Games-Educational|org.kde.gcompris
 
 # Gaming
 Gaming|com.heroicgameslauncher.hgl
@@ -425,6 +429,7 @@ Tools|de.swsnr.turnon
 Tools|io.github.zefr0x.hashes
 Tools|org.bleachbit.BleachBit
 Tools|com.github.devalien.workspaces
+Tools|io.github.cleomenezesjr.aurea
 
 # Virtualization
 Virtualization|org.virt_manager.virt-viewer

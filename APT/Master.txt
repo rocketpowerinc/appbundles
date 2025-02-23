@@ -13,6 +13,7 @@ CLI Tools|wget
 CLI Tools|xclip
 CLI Tools|yad
 CLI Tools|zenity
+CLI Tools|ca-certificates
 
 
 # Productivity
@@ -20,3 +21,7 @@ Productivity|gnome-text-editor
 
 # System Tools
 System Tools|gparted
+
+# Communication
+Communication|kdeconnect
+Communication|gnome-shell-extension-gsconnect
