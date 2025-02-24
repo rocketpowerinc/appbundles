@@ -100,7 +100,6 @@ DEV|godot_4
 DEV|jetbrains.rider
 
 # GUI Tools
-GUI Tools|blackbox-terminal
 GUI Tools|conky
 GUI Tools|obsidian
 GUI Tools|qbittorrent
@@ -119,6 +118,14 @@ Media|vlc
 Rsync with encryption|gnupg
 Rsync with encryption|gpg-tui
 Rsync with encryption|rsync
+
+
+# Terminals
+Terminals|cool-retro-term
+Terminals|ghostty
+Terminals|alacritty
+Terminals|kitty
+Terminals|blackbox-terminal
 
 # Thunar
 Thunar|xfce.thunar
