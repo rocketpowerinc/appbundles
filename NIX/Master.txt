@@ -98,6 +98,12 @@ DEV|gcolor3
 DEV|godot_4
 DEV|jetbrains.rider
 
+
+# Emulation
+Emulation|emulationstation-de
+Emulation|retroarchFull
+Emulation|kodi-retroarch-advanced-launchers
+
 # GUI Tools
 GUI Tools|conky
 GUI Tools|obsidian
@@ -112,6 +118,10 @@ Media|gnome.totem
 Media|spotify
 Media|totem-pl-parser
 Media|vlc
+
+# Pirate
+Pirate|kodi-wayland
+
 
 # Rsync with encryption
 Rsync with encryption|gnupg
