@@ -430,6 +430,7 @@ Tools|io.github.zefr0x.hashes
 Tools|org.bleachbit.BleachBit
 Tools|com.github.devalien.workspaces
 Tools|io.github.cleomenezesjr.aurea
+Tools|org.gnome.meld
 
 # Virtualization
 Virtualization|org.virt_manager.virt-viewer
