@@ -135,6 +135,7 @@ Terminals|ghostty
 Terminals|alacritty
 Terminals|kitty
 Terminals|blackbox-terminal
+Terminals|warp-terminal
 
 # Thunar
 Thunar|xfce.thunar
