@@ -1,3 +1,7 @@
+# Backups
+Backups|timeshift
+Backups|veracrypt
+
 # CLI Tools
 CLI Tools|ca-certificates
 CLI Tools|curl
