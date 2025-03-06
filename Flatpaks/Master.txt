@@ -69,6 +69,8 @@ Browsers|dev.qwery.AddWater
 Browsers|org.ferdium.Ferdium
 Browsers|re.sonny.Tangram
 Browsers|com.brave.Browser
+Browsers|org.garudalinux.firedragon
+Browsers|net.waterfox.waterfox
 
 # Communication
 Communication|com.sindresorhus.Caprine
