@@ -3,6 +3,7 @@ Backups|timeshift
 Backups|veracrypt
 
 # CLI Tools
+CLI Tools|build-essential
 CLI Tools|ca-certificates
 CLI Tools|curl
 CLI Tools|exa
@@ -12,6 +13,7 @@ CLI Tools|gh
 CLI Tools|git
 CLI Tools|jq
 CLI Tools|locate
+CLI Tools|make
 CLI Tools|nala
 CLI Tools|ripgrep
 CLI Tools|uidmap
