@@ -95,6 +95,7 @@ Converters|garden.jamie.Morphosis
 Converters|com.warlordsoftwares.formatlab
 Converters|fr.handbrake.ghb
 Converters|com.github.robertsanseries.ciano
+Converters|io.gitlab.adhami3310.Converter
 
 # Design
 Design|org.blender.Blender
