@@ -230,6 +230,9 @@ Gaming|com.valvesoftware.SteamLink
 Gaming|dev.lizardbyte.app.Sunshine
 Gaming|com.moonlight_stream.Moonlight
 
+# Gemini Protocol
+Gemini-Protocol|com.ranfdev.Geopard
+
 # Gnome
 Gnome|ca.desrt.dconf-editor
 Gnome|io.github.realmazharhussain.GdmSettings
