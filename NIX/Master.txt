@@ -239,6 +239,7 @@ Thunar|xfce.thunar-volman
 Utilities|bleachbit
 Utilities|whatip
 Utilities|sticky
+Utilities|ffmpeg
 
 # Websites
 Websites|hugo
