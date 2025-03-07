@@ -123,7 +123,7 @@ File Managers|nautilus
 CLI Tools|asciiquarium
 CLI Tools|cmatrix
 CLI TOOLS|hollywood
-CLI TOOLS|bonsai #test
+CLI TOOLS|bonsai
 CLI Tools|cowsay
 CLI Tools|figlet
 
