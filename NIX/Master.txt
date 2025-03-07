@@ -11,7 +11,7 @@ Essentials|virt-viewer
 Essentials|quickemu
 Essentials|zerotierone
 Essentials|tailscale
-Utilities|dconf #cli version
+Utilities|dconf
 Utilities|dconf-editor
 
 
