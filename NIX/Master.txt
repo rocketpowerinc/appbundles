@@ -213,6 +213,7 @@ RDP|rustdesk
 Shells|bash
 Shells|zsh
 Shells|fish
+Shells|nushell
 Shells|starship
 Shells|atuin
 Shells|zoxide
