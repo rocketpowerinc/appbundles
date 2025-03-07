@@ -57,7 +57,7 @@ CLI Tools|gnumake
 CLI Tools|hddtemp
 CLI Tools|htop
 CLI Tools|inetutils
-CLI Tools|icu #needed to run pwshshell .ps1 script
+CLI Tools|icu
 CLI Tools|lm_sensors
 CLI Tools|lsb-release
 CLI Tools|lynis
@@ -65,7 +65,7 @@ CLI Tools|netdata
 CLI Tools|nettools
 CLI Tools|nmap
 CLI Tools|nvme-cli
-CLI Tools|openssl #generate hashed passwords
+CLI Tools|openssl
 CLI Tools|openssh
 CLI Tools|pciutils
 CLI Tools|pkg-config
@@ -82,6 +82,9 @@ CLI Tools|wget
 CLI Tools|xclip
 CLI Tools|zip
 
+#*explaining some of the tools
+#icu -> needed to run pwshshell .ps1 script
+#openssl -> generate hashed passwords
 
 # Compositor
 Compositor|hyprland
