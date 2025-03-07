@@ -26,6 +26,8 @@ Essentials|io.github.brunofin.Cohesion
 Essentials|chat.simplex.simplex
 Essentials|org.kde.yakuake
 Essentials|io.unobserved.espansoGUI
+Essentials|org.virt_manager.virt-viewer
+
 
 # AI
 AI|io.github.qwersyk.Newelle
@@ -439,7 +441,6 @@ Tools|io.github.cleomenezesjr.aurea
 Tools|org.gnome.meld
 
 # Virtualization
-Virtualization|org.virt_manager.virt-viewer
 Virtualization|io.github.dvlv.boxbuddyrs
 Virtualization|org.gnome.Boxes
 Virtualization|com.usebottles.bottles

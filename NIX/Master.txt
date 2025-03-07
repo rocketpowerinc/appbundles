@@ -1,3 +1,18 @@
+# Essentials
+Essentials|yad
+Essentials|fastfetch
+Essentials|gnome.zenity
+Essentials|topgrade
+Essentials|glow
+Essentials|gum
+Essentials|powershell
+Essentials|ventoy-full
+Essentials|virt-viewer
+Essentials|quickemu
+Essentials|zerotierone
+Essentials|tailscale
+
+
 # Backups
 Backups|cryptomator
 Backups|megasync
@@ -12,54 +27,37 @@ Browsers|mullvad-browser
 
 # CLI Tools
 CLI Tools|appimage-run
-CLI Tools|asciiquarium
 CLI Tools|autojump
-CLI Tools|bash
 CLI Tools|bat
 CLI Tools|bfs
 CLI Tools|binutils
+CLI Tools|btop
 CLI Tools|broot
-CLI Tools|cmatrix
 CLI Tools|colordiff
 CLI Tools|coreutils
 CLI Tools|cockpit
-CLI Tools|cowsay
 CLI Tools|cron
 CLI Tools|curl
 CLI Tools|dmidecode
-CLI Tools|dmenu
-CLI Tools|docker
-CLI Tools|docker-compose
 CLI Tools|dua
 CLI Tools|du-dust
 CLI Tools|duf
 CLI Tools|eza
 CLI Tools|fakeroot
-CLI Tools|fastfetch
 CLI Tools|fd
 CLI Tools|ffmpeg
-CLI Tools|figlet
 CLI Tools|findutils
-CLI Tools|fish
 CLI Tools|fzf
 CLI Tools|gcc
 CLI Tools|gdu
-CLI Tools|gh
-CLI Tools|git
-CLI Tools|glow
-CLI Tools|gnome.zenity
 CLI Tools|gnugrep
 CLI Tools|gnumake
-CLI Tools|gum
 CLI Tools|hddtemp
-CLI Tools|helix
 CLI Tools|htop
 CLI Tools|inetutils
 CLI Tools|lm_sensors
 CLI Tools|lsb-release
 CLI Tools|lynis
-CLI Tools|micro
-CLI Tools|neovim
 CLI Tools|netdata
 CLI Tools|nettools
 CLI Tools|nmap
@@ -68,41 +66,60 @@ CLI Tools|pciutils
 CLI Tools|pkg-config
 CLI Tools|plocate
 CLI Tools|powertop
-CLI Tools|quickemu
 CLI Tools|ripgrep
-CLI Tools|rofi
 CLI Tools|rustscan
-CLI Tools|shellcheck
-CLI Tools|starship
 CLI Tools|sysstat
 CLI Tools|tldr
-CLI Tools|topgrade
 CLI Tools|trash-cli
-CLI Tools|ulauncher
 CLI Tools|unzip
-CLI Tools|powershell
 CLI Tools|variety
-CLI Tools|virt-viewer
-CLI Tools|wget
 CLI Tools|wget
 CLI Tools|xclip
-CLI Tools|yad
-CLI Tools|zellij
 CLI Tools|zip
-CLI Tools|zoxide
-CLI Tools|zsh
-CLI Tools|zerotierone
+
+
+# Compositor
+Compositor|hyprland
+
 
 # DEV
 DEV|gcolor3
 DEV|godot_4
 DEV|jetbrains.rider
 
+# Docker
+Docker|docker
+Docker|docker-compose
+Docker|lazydocker
+
+
 
 # Emulation
 Emulation|emulationstation-de
 Emulation|retroarchFull
 Emulation|kodi-retroarch-advanced-launchers
+Emulation|dolphin-emu
+
+# File Managers
+File Managers|xfce.thunar
+File Managers|yazi
+File Managers|mc
+File Managers|nautilus
+
+
+# Fun
+CLI Tools|asciiquarium
+CLI Tools|cmatrix
+CLI TOOLS|hollywood
+CLI TOOLS|bonsai
+CLI Tools|cowsay
+CLI Tools|figlet
+
+
+# Git
+Essentials|gh
+Essentials|git
+Essentials|lazygit
 
 # GUI Tools
 GUI Tools|conky
@@ -112,6 +129,11 @@ GUI Tools|sticky
 GUI Tools|vscode
 GUI Tools|whatip
 
+# Launchers
+Launchers|ulauncher
+Launchers|dmenu
+Launchers|rofi
+
 # Media
 Media|amberol
 Media|gnome.totem
@@ -119,14 +141,34 @@ Media|spotify
 Media|totem-pl-parser
 Media|vlc
 
+
+# Multiplexer
+Multiplexer|zellij
+Multiplexer|tmux
+
 # Pirate
 Pirate|kodi-wayland
+
+# Productivity
+Productivity|micro
+Productivity|neovim
+Productivity|helix
 
 
 # Rsync with encryption
 Rsync with encryption|gnupg
 Rsync with encryption|gpg-tui
 Rsync with encryption|rsync
+
+
+# Shells and Shell Tools
+Shells|bash
+Shells|zsh
+Shells|fish
+Shells|starship
+Shells|atuin
+Shells|zoxide
+Shells|shellcheck
 
 
 # Terminals
