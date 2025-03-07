@@ -11,6 +11,8 @@ Essentials|virt-viewer
 Essentials|quickemu
 Essentials|zerotierone
 Essentials|tailscale
+Utilities|dconf #cli version
+Utilities|dconf-editor
 
 
 # Backups
@@ -55,6 +57,7 @@ CLI Tools|gnumake
 CLI Tools|hddtemp
 CLI Tools|htop
 CLI Tools|inetutils
+CLI Tools|icu #needed to run pwshshell .ps1 script
 CLI Tools|lm_sensors
 CLI Tools|lsb-release
 CLI Tools|lynis
@@ -62,6 +65,8 @@ CLI Tools|netdata
 CLI Tools|nettools
 CLI Tools|nmap
 CLI Tools|nvme-cli
+CLI Tools|openssl #generate hashed passwords
+CLI Tools|openssh
 CLI Tools|pciutils
 CLI Tools|pkg-config
 CLI Tools|plocate
@@ -86,6 +91,12 @@ Compositor|hyprland
 DEV|gcolor3
 DEV|godot_4
 DEV|jetbrains.rider
+
+
+# Distrobox
+Distrobox|distrobox
+Distrobox|distrobox-tui
+Distrobox|boxbuddy
 
 # Docker
 Docker|docker
@@ -122,6 +133,15 @@ Essentials|gh
 Essentials|git
 Essentials|lazygit
 
+# Gnome Extensions
+Gnome Extensions|gnome-extension-manager
+Gnome Extensions|gnomeExtensions.open-bar
+Gnome Extensions|gnomeExtensions.dash-to-dock
+Gnome Extensions|gnomeExtensions.burn-my-windows
+Gnome Extensions|gnomeExtensions.forge
+Gnome Extensions|gnomeExtensions.blur-my-shell
+
+
 # GUI Tools
 GUI Tools|conky
 GUI Tools|obsidian
@@ -131,7 +151,9 @@ GUI Tools|vscode
 GUI Tools|whatip
 
 # Languages
-Languages|Languages|go
+Languages|go
+Languages|zig
+Languages|rustup
 Languages|python3Full
 Languages|uv
 Languages|direnv
@@ -156,6 +178,11 @@ Media|vlc
 Multiplexer|zellij
 Multiplexer|tmux
 
+
+# Nix
+Nix|nixos-generators
+
+
 # Pirate
 Pirate|kodi-wayland
 
@@ -164,6 +191,9 @@ Productivity|micro
 Productivity|neovim
 Productivity|helix
 
+# RDP
+RDP|remmina
+RDP|rustdesk
 
 # Rsync with encryption
 Rsync with encryption|gnupg
@@ -195,3 +225,6 @@ Thunar|xfce.thunar-archive-plugin
 Thunar|xfce.thunar-dropbox-plugin
 Thunar|xfce.thunar-media-tags-plugin
 Thunar|xfce.thunar-volman
+
+# Utilities
+Utilities|bleachbit
