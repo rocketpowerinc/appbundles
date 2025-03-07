@@ -1,3 +1,7 @@
+#*explaining some of the tools
+#icu -> needed to run pwshshell .ps1 script
+#openssl -> generate hashed passwords
+
 # Essentials
 Essentials|yad
 Essentials|fastfetch
@@ -11,23 +15,29 @@ Essentials|virt-viewer
 Essentials|quickemu
 Essentials|zerotierone
 Essentials|tailscale
-Utilities|dconf
-Utilities|dconf-editor
+Essentials|dconf
+Essentials|dconf-editor
+Essentials|conky
+Essentials|obsidian
+Essentials|vscode
+Essentials|protonvpn-gui
+Essentials|protonvpn-cli
 
 
 # Backups
-Backups|cryptomator
 Backups|megasync
 Backups|pika-backup
 Backups|rclone
 Backups|rclone-browser
-Backups|veracrypt
+Backups|rsync
+
 
 # Browsers
 Browsers|firefox
 Browsers|mullvad-browser
 
 # CLI Tools
+CLI Tools|ansible
 CLI Tools|appimage-run
 CLI Tools|autojump
 CLI Tools|bat
@@ -82,9 +92,8 @@ CLI Tools|wget
 CLI Tools|xclip
 CLI Tools|zip
 
-#*explaining some of the tools
-#icu -> needed to run pwshshell .ps1 script
-#openssl -> generate hashed passwords
+# Cloud
+Cloud|megasync
 
 # Compositor
 Compositor|hyprland
@@ -115,6 +124,14 @@ Emulation|kodi-retroarch-advanced-launchers
 Emulation|dolphin-emu
 Emulation|waydroid
 
+
+# Encryption
+Encryption|gnupg
+Encryption|gpg-tui
+Encryption|cryptomator
+Encryption|verEncryption
+
+
 # File Managers
 File Managers|xfce.thunar
 File Managers|yazi
@@ -123,12 +140,12 @@ File Managers|nautilus
 
 
 # Fun
-CLI Tools|asciiquarium
-CLI Tools|cmatrix
-CLI TOOLS|hollywood
-CLI TOOLS|bonsai
-CLI Tools|cowsay
-CLI Tools|figlet
+Fun|asciiquarium
+Fun|cmatrix
+Fun|hollywood
+Fun|bonsai
+Fun|cowsay
+Fun|figlet
 
 
 # Git
@@ -144,14 +161,6 @@ Gnome Extensions|gnomeExtensions.burn-my-windows
 Gnome Extensions|gnomeExtensions.forge
 Gnome Extensions|gnomeExtensions.blur-my-shell
 
-
-# GUI Tools
-GUI Tools|conky
-GUI Tools|obsidian
-GUI Tools|qbittorrent
-GUI Tools|sticky
-GUI Tools|vscode
-GUI Tools|whatip
 
 # Languages
 Languages|go
@@ -188,6 +197,7 @@ Nix|nixos-generators
 
 # Pirate
 Pirate|kodi-wayland
+Pirate|qbittorrent
 
 # Productivity
 Productivity|micro
@@ -197,11 +207,6 @@ Productivity|helix
 # RDP
 RDP|remmina
 RDP|rustdesk
-
-# Rsync with encryption
-Rsync with encryption|gnupg
-Rsync with encryption|gpg-tui
-Rsync with encryption|rsync
 
 
 # Shells and Shell Tools
@@ -231,3 +236,8 @@ Thunar|xfce.thunar-volman
 
 # Utilities
 Utilities|bleachbit
+Utilities|whatip
+Utilities|sticky
+
+# Websites
+Websites|hugo
