@@ -99,6 +99,7 @@ Emulation|emulationstation-de
 Emulation|retroarchFull
 Emulation|kodi-retroarch-advanced-launchers
 Emulation|dolphin-emu
+Emulation|waydroid
 
 # File Managers
 File Managers|xfce.thunar
@@ -128,6 +129,15 @@ GUI Tools|qbittorrent
 GUI Tools|sticky
 GUI Tools|vscode
 GUI Tools|whatip
+
+# Languages
+Languages|Languages|go
+Languages|python3Full
+Languages|uv
+Languages|direnv
+Languages|pyenv
+Languages|pipx
+Languages|poetry
 
 # Launchers
 Launchers|ulauncher
