@@ -8,6 +8,7 @@ CLI Tools|ca-certificates
 CLI Tools|curl
 CLI Tools|exa
 CLI Tools|fd-find
+CLI Tools|ffmpeg
 CLI Tools|fzf
 CLI Tools|gh
 CLI Tools|git
