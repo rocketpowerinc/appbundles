@@ -1,11 +1,13 @@
 #*explaining some of the tools
 #icu -> needed to run pwshshell .ps1 script
 #openssl -> generate hashed passwords
+#newt -> it is whiptail (which is like yad and zenity)
 
 # Essentials
 Essentials|yad
-Essentials|fastfetch
 Essentials|gnome.zenity
+Essentials|newt
+Essentials|fastfetch
 Essentials|topgrade
 Essentials|glow
 Essentials|gum
@@ -22,6 +24,7 @@ Essentials|obsidian
 Essentials|vscode
 Essentials|protonvpn-gui
 Essentials|protonvpn-cli
+Essentials|stacer
 
 
 # Backups
@@ -35,6 +38,10 @@ Backups|rsync
 # Browsers
 Browsers|firefox
 Browsers|mullvad-browser
+
+
+# Creators
+Creators|aseprite
 
 # CLI Tools
 CLI Tools|ansible
