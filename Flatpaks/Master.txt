@@ -37,6 +37,7 @@ AI|page.codeberg.Imaginer.Imaginer
 
 # Android
 Android|org.openandroidinstaller.OpenAndroidInstaller
+Android|in.srev.guiscrcpy
 
 # Assets
 Assets|org.gnome.design.IconLibrary
@@ -99,14 +100,15 @@ Converters|fr.handbrake.ghb
 Converters|com.github.robertsanseries.ciano
 Converters|io.gitlab.adhami3310.Converter
 
-# Design
-Design|org.blender.Blender
-Design|org.gimp.GIMP
-Design|com.icons8.Lunacy
-Design|com.authormore.penpotdesktop
-Design|org.kde.kdenlive
-Design|org.inkscape.Inkscape
-Design|com.obsproject.Studio
+# Creators
+Creators|org.blender.Blender
+Creators|org.gimp.GIMP
+Creators|com.icons8.Lunacy
+Creators|com.authormore.penpotdesktop
+Creators|org.kde.kdenlive
+Creators|org.inkscape.Inkscape
+Creators|com.obsproject.Studio
+Creators|org.kde.krita
 
 # Dev
 Dev|page.codeberg.libre_menu_editor.LibreMenuEditor
@@ -389,6 +391,10 @@ RemoteDesktop|com.parsecgaming.parsec
 Rss|com.gitlab.newsflash
 Rss|org.gabmus.gfeeds
 Rss|com.belmoussaoui.ReadItLater
+
+# Screen Recorders
+Screen Recorders|sa.sy.bluerecorder
+Screen Recorders|io.github.seadve.Kooha
 
 # Security
 Security|com.github.ADBeveridge.Raider
