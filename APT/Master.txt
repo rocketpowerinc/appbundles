@@ -12,6 +12,9 @@ Essentials|whiptail
 Backups|timeshift
 Backups|veracrypt
 
+# Creators
+Creators|aseprite
+
 # CLI Tools
 CLI Tools|build-essential
 CLI Tools|ca-certificates
@@ -37,4 +40,5 @@ Productivity|gnome-text-editor
 
 # System Tools
 System Tools|gparted
+System Tools|stacer
 
