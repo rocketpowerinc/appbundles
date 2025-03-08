@@ -1,3 +1,13 @@
+# Essentials
+Essentials|exa
+Essentials|gh
+Essentials|git
+Essentials|jq
+Essentials|nala
+Essentials|yad
+Essentials|zenity
+Essentials|whiptail
+
 # Backups
 Backups|timeshift
 Backups|veracrypt
@@ -6,22 +16,16 @@ Backups|veracrypt
 CLI Tools|build-essential
 CLI Tools|ca-certificates
 CLI Tools|curl
-CLI Tools|exa
 CLI Tools|fd-find
 CLI Tools|ffmpeg
 CLI Tools|fzf
-CLI Tools|gh
-CLI Tools|git
-CLI Tools|jq
 CLI Tools|locate
 CLI Tools|make
-CLI Tools|nala
 CLI Tools|ripgrep
 CLI Tools|uidmap
 CLI Tools|wget
 CLI Tools|xclip
-CLI Tools|yad
-CLI Tools|zenity
+
 
 # Communication
 Communication|kdeconnect

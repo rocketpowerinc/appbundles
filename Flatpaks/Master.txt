@@ -51,6 +51,7 @@ Backups|org.gnome.DejaDup
 Backups|io.github.pieterdd.RcloneShuttle
 Backups|me.kozec.syncthingtk
 Backups|io.github.martchus.syncthingtray
+Backups|org.freefilesync.FreeFileSync
 
 # Books
 |com.github.johnfactotum.Foliate
