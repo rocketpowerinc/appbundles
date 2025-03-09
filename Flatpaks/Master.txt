@@ -110,6 +110,8 @@ Creators|org.kde.kdenlive
 Creators|org.inkscape.Inkscape
 Creators|com.obsproject.Studio
 Creators|org.kde.krita
+Creators|com.authormore.penpotdesktop
+Creators|org.darktable.Darktable
 
 # Dev
 Dev|page.codeberg.libre_menu_editor.LibreMenuEditor
