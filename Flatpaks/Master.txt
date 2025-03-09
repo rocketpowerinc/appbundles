@@ -303,6 +303,9 @@ Media|io.bassi.Amberol
 Media|io.freetubeapp.FreeTube
 Media|org.gnome.Music
 Media|io.mpv.Mpv
+Media|org.js.nuclear.Nuclear
+Media|com.spotify.Client
+Media|com.github.KRTirtho.Spotube
 
 
 # Monitors
