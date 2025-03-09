@@ -2,6 +2,7 @@
 Essentials|com.raggesilver.BlackBox
 Essentials|com.github.tchx84.Flatseal
 Essentials|org.deskflow.deskflow
+Essentials|com.github.debauchee.barrier
 Essentials|io.github.flattool.Warehouse
 Essentials|com.google.AndroidStudio
 Essentials|org.localsend.localsend_app
@@ -27,6 +28,7 @@ Essentials|chat.simplex.simplex
 Essentials|org.kde.yakuake
 Essentials|io.unobserved.espansoGUI
 Essentials|org.virt_manager.virt-viewer
+Essentials|org.flameshot.Flameshot
 
 
 # AI
@@ -189,6 +191,9 @@ FileTransfer|app.drey.Warp
 # Finance
 Finance|io.greenfire.Greenery
 Finance|org.nickvision.money
+
+# Fun
+Fun|org.gnome.gitlab.Cowsay
 
 # Games
 Games|com.play0ad.zeroad
