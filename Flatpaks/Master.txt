@@ -290,6 +290,8 @@ HomeSchool|org.sugarlabs.Words
 Iso|org.kde.isoimagewriter
 Iso|com.system76.Popsicle
 Iso|org.raspberrypi.rpi-imager
+Iso|io.gitlab.adhami3310.Impression
+Iso|org.fedoraproject.MediaWriter
 
 # KidsCoding
 KidsCoding|edu.mit.Scratch
