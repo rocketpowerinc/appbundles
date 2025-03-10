@@ -25,7 +25,6 @@ Essentials|com.protonvpn.www
 Essentials|me.proton.Mail
 Essentials|io.github.brunofin.Cohesion
 Essentials|chat.simplex.simplex
-Essentials|org.kde.yakuake
 Essentials|io.unobserved.espansoGUI
 Essentials|org.virt_manager.virt-viewer
 Essentials|org.flameshot.Flameshot
@@ -436,6 +435,9 @@ Shortcuts|io.github.fabrialberio.pinapp
 # SteamDeck
 SteamDeck|com.steamdeckrepo.manager
 SteamDeck|net.retrodeck.retrodeck
+
+# Terminals
+Terminals|org.kde.yakuake
 
 # Time
 Time|org.gnome.Calendar
