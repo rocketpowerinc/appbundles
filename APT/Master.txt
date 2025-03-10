@@ -11,9 +11,12 @@ Essentials|whiptail
 # Backups
 Backups|timeshift
 Backups|veracrypt
+Backups|rclone
+Backups|rclone-browser
+Backups|rsync
+Backups|syncthing
 
-# Creators
-Creators|aseprite
+
 
 # CLI Tools
 CLI Tools|build-essential

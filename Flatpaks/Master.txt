@@ -29,6 +29,8 @@ Essentials|org.kde.yakuake
 Essentials|io.unobserved.espansoGUI
 Essentials|org.virt_manager.virt-viewer
 Essentials|org.flameshot.Flameshot
+Essentials|org.cryptomator.Cryptomator
+
 
 
 # AI
@@ -415,7 +417,6 @@ Security|dev.geopjr.Collision
 Security|fr.romainvigier.MetadataCleaner
 Security|io.github.najepaliya.kleaner
 Security|com.gitlab.davem.ClamTk
-Security|org.cryptomator.Cryptomator
 Security|org.gnome.seahorse.Application
 Security|org.gnome.World.Secrets
 Security|com.belmoussaoui.Authenticator
