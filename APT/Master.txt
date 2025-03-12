@@ -20,11 +20,17 @@ Backups|syncthing
 
 # CLI Tools
 CLI Tools|build-essential
+CLI Tools|cmake
+CLI Tools|gcc
+CLI Tools|ansible
+CLI Tools|autojump
+CLI Tools|bat
 CLI Tools|ca-certificates
 CLI Tools|curl
 CLI Tools|fd-find
 CLI Tools|ffmpeg
 CLI Tools|fzf
+CLI Tools|thefuck
 CLI Tools|locate
 CLI Tools|make
 CLI Tools|ripgrep
@@ -37,6 +43,9 @@ CLI Tools|xclip
 Communication|kdeconnect
 Communication|gnome-shell-extension-gsconnect
 
+
+# Media
+Media|audacious
 
 # Productivity
 Productivity|gnome-text-editor

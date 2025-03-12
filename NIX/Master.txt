@@ -69,6 +69,7 @@ CLI Tools|fakeroot
 CLI Tools|fd
 CLI Tools|ffmpeg
 CLI Tools|findutils
+CLI Tools|thefuck
 CLI Tools|fzf
 CLI Tools|gcc
 CLI Tools|gdu
@@ -172,6 +173,11 @@ Gnome Extensions|gnomeExtensions.burn-my-windows
 Gnome Extensions|gnomeExtensions.forge
 Gnome Extensions|gnomeExtensions.blur-my-shell
 
+# Hardware
+Hardware|openrgb
+Hardware|solaar
+Hardware|boatswain
+Hardware|epsonscan2
 
 # Languages
 Languages|go
@@ -195,6 +201,9 @@ Media|gnome.totem
 Media|spotify
 Media|totem-pl-parser
 Media|vlc
+Media|audacious
+Media|youtube-dl
+Media|youtube-tui
 
 
 # Multiplexer
