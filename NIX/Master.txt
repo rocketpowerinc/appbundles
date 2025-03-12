@@ -25,6 +25,7 @@ Essentials|vscode
 Essentials|protonvpn-gui
 Essentials|protonvpn-cli
 Essentials|stacer
+Essentials|code-cursor
 
 
 # Backups
