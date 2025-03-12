@@ -21,10 +21,10 @@ Essentials|dconf
 Essentials|dconf-editor
 Essentials|conky
 Essentials|obsidian
-Essentials|vscode
 Essentials|protonvpn-gui
 Essentials|protonvpn-cli
 Essentials|stacer
+Essentials|vscode
 Essentials|code-cursor
 
 
