@@ -438,6 +438,11 @@ Shortcuts|io.github.fabrialberio.pinapp
 SteamDeck|com.steamdeckrepo.manager
 SteamDeck|net.retrodeck.retrodeck
 
+# Sticky Notes
+Sticky Notes|com.vixalien.sticky
+Sticky Notes|org.gnome.Notes
+
+
 # Terminals
 Terminals|org.kde.yakuake
 
@@ -448,7 +453,6 @@ Time|org.jousse.vincent.Pomodorolm
 
 # Tools
 Tools|com.github.finefindus.eyedropper
-Tools|com.vixalien.sticky
 Tools|io.github.jean28518.Linux-Assistant
 Tools|dev.serebit.Waycheck
 Tools|com.leinardi.gwe
