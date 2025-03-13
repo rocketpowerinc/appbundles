@@ -355,6 +355,7 @@ Pirate|dev.fredol.open-tv
 
 # Podcasts
 Podcasts|org.gnome.Podcasts
+Podcasts|org.kde.kasts
 
 # Productivity
 Productivity|org.libreoffice.LibreOffice
