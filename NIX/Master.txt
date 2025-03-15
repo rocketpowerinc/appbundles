@@ -249,7 +249,11 @@ Terminals|alacritty
 Terminals|kitty
 Terminals|blackbox-terminal
 Terminals|warp-terminal
-Terminals|presenterm
+
+
+# TUI
+TUI|calcure
+TUI|presenterm
 
 # Thunar
 Thunar|xfce.thunar
