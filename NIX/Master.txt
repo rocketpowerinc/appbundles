@@ -249,6 +249,7 @@ Terminals|alacritty
 Terminals|kitty
 Terminals|blackbox-terminal
 Terminals|warp-terminal
+Terminals|presenterm
 
 # Thunar
 Thunar|xfce.thunar
