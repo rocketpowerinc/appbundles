@@ -4,6 +4,7 @@ Essentials|gh
 Essentials|git
 Essentials|jq
 Essentials|nala
+Essentials|ssh
 Essentials|yad
 Essentials|zenity
 Essentials|whiptail
