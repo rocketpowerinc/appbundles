@@ -286,6 +286,7 @@ HomeSchool|org.tuxpaint.Tuxpaint
 HomeSchool|org.kde.marble
 HomeSchool|org.stellarium.Stellarium
 HomeSchool|org.sugarlabs.Words
+HomeSchool|ca.vlacroix.Tally
 
 # Iso
 Iso|org.kde.isoimagewriter
