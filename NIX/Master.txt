@@ -268,5 +268,8 @@ Utilities|whatip
 Utilities|sticky
 Utilities|ffmpeg
 
+# Wallpaper
+Wallpaper|variety
+
 # Websites
 Websites|hugo

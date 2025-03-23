@@ -54,6 +54,9 @@ Media|audacious
 # Productivity
 Productivity|gnome-text-editor
 
+# Wallpaper
+Wallpaper|variety
+
 # System Tools
 System Tools|gparted
 System Tools|stacer
