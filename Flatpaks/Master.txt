@@ -311,21 +311,24 @@ Media|net.mkiol.Jupii
 Media|com.rafaelmardojai.Blanket
 Media|io.github.seadve.Mousai
 Media|io.bassi.Amberol
-Media|io.freetubeapp.FreeTube
 Media|org.gnome.Music
 Media|io.mpv.Mpv
 Media|org.js.nuclear.Nuclear
 Media|com.spotify.Client
 Media|com.github.KRTirtho.Spotube
 Media|org.atheme.audacious
+Media|io.freetubeapp.FreeTube
+Media|de.schmidhuberj.tubefeeder
 
+# Mirror
+Mirror|org.gnome.NetworkDisplays
 
-# Monitors
-Monitors|org.gnome.Logs
-Monitors|io.missioncenter.MissionCenter
-Monitors|io.github.nokse22.inspector
-Monitors|com.kgurgul.cpuinfo
-Monitors|org.gnome.baobab
+# Monitoring
+Monitoring|org.gnome.Logs
+Monitoring|io.missioncenter.MissionCenter
+Monitoring|io.github.nokse22.inspector
+Monitoring|com.kgurgul.cpuinfo
+Monitoring|org.gnome.baobab
 
 # MusicEducation
 MusicEducation|dev.bragefuglseth.Fretboard
