@@ -2,7 +2,6 @@
 Essentials|com.raggesilver.BlackBox
 Essentials|com.github.tchx84.Flatseal
 Essentials|org.deskflow.deskflow
-Essentials|com.github.debauchee.barrier
 Essentials|io.github.flattool.Warehouse
 Essentials|com.google.AndroidStudio
 Essentials|org.localsend.localsend_app
@@ -256,6 +255,8 @@ Hardware|io.github.janbar.noson
 Hardware|io.github.pwr_solaar.solaar
 Hardware|org.openrgb.OpenRGB
 Hardware|net.epson.epsonscan2
+Hardware|com.github.debauchee.barrier
+Hardware|io.github.input_leap.input-leap
 
 # HomeSchool
 HomeSchool|org.endlessos.Key
