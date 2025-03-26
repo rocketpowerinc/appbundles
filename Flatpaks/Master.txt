@@ -182,6 +182,7 @@ Fediverse|im.fluffychat.Fluffychat
 # FileManager
 FileManager|org.kde.dolphin
 FileManager|org.kde.index
+FileManager|dev.tchx84.Portfolio
 
 # FileTransfer
 FileTransfer|org.x.Warpinator
@@ -294,6 +295,7 @@ Iso|com.system76.Popsicle
 Iso|org.raspberrypi.rpi-imager
 Iso|io.gitlab.adhami3310.Impression
 Iso|org.fedoraproject.MediaWriter
+ISO|com.poweriso.PowerISO
 
 # KidsCoding
 KidsCoding|edu.mit.Scratch
@@ -406,6 +408,7 @@ Religion|io.github.roseblume.rosary
 RemoteDesktop|org.remmina.Remmina
 RemoteDesktop|com.rustdesk.RustDesk
 RemoteDesktop|com.parsecgaming.parsec
+RemoteDesktop|org.gnome.Connections
 
 # Rss
 Rss|com.gitlab.newsflash
