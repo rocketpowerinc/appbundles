@@ -9,7 +9,6 @@ Essentials|org.localsend.localsend_app
 Essentials|net.nokyan.Resources
 Essentials|io.github.shiftey.Desktop
 Essentials|dev.deedles.Trayscale
-Essentials|app.devsuite.Ptyxis
 Essentials|org.videolan.VLC
 Essentials|org.mozilla.Thunderbird
 Essentials|com.visualstudio.code
@@ -449,6 +448,7 @@ Sticky Notes|org.gnome.Notes
 
 # Terminals
 Terminals|org.kde.yakuake
+Terminals|app.devsuite.Ptyxis
 
 # Time
 Time|org.gnome.Calendar
