@@ -316,7 +316,6 @@ Media|io.bassi.Amberol
 Media|org.gnome.Music
 Media|io.mpv.Mpv
 Media|org.js.nuclear.Nuclear
-Media|com.spotify.Client
 Media|com.github.KRTirtho.Spotube
 Media|org.atheme.audacious
 Media|io.freetubeapp.FreeTube
