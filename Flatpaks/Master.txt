@@ -330,6 +330,7 @@ Monitoring|io.missioncenter.MissionCenter
 Monitoring|io.github.nokse22.inspector
 Monitoring|com.kgurgul.cpuinfo
 Monitoring|org.gnome.baobab
+Monitoring|org.freedesktop.Bustle
 
 # MusicEducation
 MusicEducation|dev.bragefuglseth.Fretboard
