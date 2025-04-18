@@ -323,7 +323,7 @@ Media|org.atheme.audacious
 Media|io.freetubeapp.FreeTube
 Media|de.schmidhuberj.tubefeeder
 
-# Mirror
+# Mirror (Casting)
 Mirror|org.gnome.NetworkDisplays
 
 # Monitoring
@@ -483,6 +483,8 @@ Tools|io.github.vmkspv.netsleuth
 Virtualization|io.github.dvlv.boxbuddyrs
 Virtualization|org.gnome.Boxes
 Virtualization|com.usebottles.bottles
+Virtualization|de.capypara.FieldMonitor
+
 
 
 # Weather
