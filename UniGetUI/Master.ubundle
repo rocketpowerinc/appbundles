@@ -2026,6 +2026,29 @@
       }
     },
     {
+      "Id": "Highresolution.X-MouseButtonControl",
+      "Name": "X-Mouse Button Control",
+      "Version": "2.20.5",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "Hugo.Hugo.Extended",
       "Name": "Hugo (Extended)",
       "Version": "0.145.0",
