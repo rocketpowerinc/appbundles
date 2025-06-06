@@ -186,6 +186,29 @@
       }
     },
     {
+      "Id": "9NLRL58VZCK9",
+      "Name": "Hue Essentials",
+      "Version": "Unknown",
+      "Source": "msstore",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "9NMZLZ57R3T7",
       "Name": "HEVC Video Extensions",
       "Version": "Unknown",
@@ -1891,6 +1914,29 @@
       "Id": "Google.AndroidStudio",
       "Name": "Android Studio",
       "Version": "2024.2.1.10",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Google.Chrome",
+      "Name": "Google Chrome",
+      "Version": "137.0.7151.69",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
