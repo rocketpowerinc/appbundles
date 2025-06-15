@@ -5,6 +5,8 @@ Essentials|git
 Essentials|jq
 Essentials|nala
 Essentials|ssh
+Essentials|ufw
+Essentials|gufw
 Essentials|yad
 Essentials|zenity
 Essentials|whiptail
