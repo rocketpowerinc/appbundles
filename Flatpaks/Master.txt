@@ -29,6 +29,7 @@ Essentials|org.virt_manager.virt-viewer
 Essentials|org.flameshot.Flameshot
 Essentials|org.cryptomator.Cryptomator
 Essentials|org.gnome.TextEditor
+Essentials|io.github.flattool.Ignition
 
 
 
