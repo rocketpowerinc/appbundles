@@ -141,6 +141,7 @@ Doomsday|org.gnome.Recipes
 Doomsday|dev.geopjr.Archives
 Doomsday|io.github.fkinoshita.Telegraph
 Doomsday|nl.v0yd.Capsule
+Doomsday|io.github.leolost2605.emergency-alerts
 
 # Electrical
 Electrical|io.github.hamza_algohary.Coulomb
