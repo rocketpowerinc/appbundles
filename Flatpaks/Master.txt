@@ -30,6 +30,7 @@ Essentials|org.flameshot.Flameshot
 Essentials|org.cryptomator.Cryptomator
 Essentials|org.gnome.TextEditor
 Essentials|io.github.flattool.Ignition
+Essentials|io.github.giantpinkrobots.flatsweep
 
 
 
