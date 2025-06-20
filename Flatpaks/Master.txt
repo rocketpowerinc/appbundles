@@ -48,6 +48,7 @@ Assets|org.gnome.design.IconLibrary
 Assets|org.gustavoperedo.FontDownloader
 Assets|org.gnome.Characters
 Assets|com.tomjwatson.Emote
+Assets|io.github.getnf.embellish
 
 # Backups
 Backups|org.gnome.World.PikaBackup
@@ -116,6 +117,7 @@ Creators|com.obsproject.Studio
 Creators|org.kde.krita
 Creators|com.authormore.penpotdesktop
 Creators|org.darktable.Darktable
+Creators|com.github.PintaProject.Pinta
 
 # Dev
 Dev|page.codeberg.libre_menu_editor.LibreMenuEditor
@@ -488,7 +490,8 @@ Virtualization|org.gnome.Boxes
 Virtualization|com.usebottles.bottles
 Virtualization|de.capypara.FieldMonitor
 
-
+# WebApps
+WebApps|io.github.zaedus.spider
 
 # Weather
 Weather|io.github.amit9838.mousam
