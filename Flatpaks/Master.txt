@@ -256,6 +256,7 @@ Gemini-Protocol|com.ranfdev.Geopard
 # Gnome
 Gnome|ca.desrt.dconf-editor
 Gnome|io.github.realmazharhussain.GdmSettings
+Gnome|page.tesk.Refine
 
 # Hardware
 Hardware|com.feaneron.Boatswain
