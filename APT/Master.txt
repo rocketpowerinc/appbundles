@@ -50,6 +50,7 @@ Communication|gnome-shell-extension-gsconnect
 Dual-boot|refind
 Dual-boot|os-prober
 Dual-boot|grub-customizer
+Dual-boot|boot-repair
 
 
 # Hardware
