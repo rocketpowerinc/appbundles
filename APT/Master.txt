@@ -46,6 +46,12 @@ CLI Tools|xclip
 Communication|kdeconnect
 Communication|gnome-shell-extension-gsconnect
 
+# Dual-boot
+Dual-boot|refind
+Dual-boot|os-prober
+Dual-boot|grub-customizer
+
+
 # Hardware
 Hardware|solaar
 
