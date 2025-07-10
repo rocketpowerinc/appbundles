@@ -1428,6 +1428,29 @@
       }
     },
     {
+      "Id": "ES-DE.EmulationStation-DE",
+      "Name": "EmulationStation Desktop Edition",
+      "Version": "3.2.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "ElaborateBytes.VirtualCloneDrive",
       "Name": "VirtualCloneDrive",
       "Version": "5.5.2.0",
@@ -2259,6 +2282,29 @@
       "Id": "JanDeDobbeleer.OhMyPosh",
       "Name": "Oh My Posh",
       "Version": "24.12.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "JeffreyPfau.mGBA",
+      "Name": "mGBA",
+      "Version": "0.10.5",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
