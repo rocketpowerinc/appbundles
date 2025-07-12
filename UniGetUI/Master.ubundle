@@ -4512,29 +4512,6 @@
       }
     },
     {
-      "Id": "Syncthing.Syncthing",
-      "Name": "Syncthing",
-      "Version": "1.30.0",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
       "Id": "Taiizor.SucroseWallpaperEngine",
       "Name": "Sucrose Wallpaper Engine",
       "Version": "24.12.2.0",
@@ -6311,6 +6288,29 @@
       "Id": "superfile",
       "Name": "Superfile",
       "Version": "1.1.6",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "syncthing",
+      "Name": "Syncthing",
+      "Version": "1.30.0",
       "Source": "community",
       "ManagerName": "Chocolatey",
       "InstallationOptions": {
