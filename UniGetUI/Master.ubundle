@@ -1635,6 +1635,29 @@
       }
     },
     {
+      "Id": "Figlet",
+      "Name": "Figlet",
+      "Version": "0.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "Figma.Figma",
       "Name": "Figma",
       "Version": "124.7.4",
