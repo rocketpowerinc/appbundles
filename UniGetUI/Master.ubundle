@@ -51,6 +51,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "9NBLGGH4QGHW",
+      "Name": "Microsoft Sticky Notes",
+      "Version": "Unknown",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "9NBLGGH5R558",
       "Name": "Microsoft To Do: Lists, Tasks \u0026 Reminders",
       "Version": "Unknown",
