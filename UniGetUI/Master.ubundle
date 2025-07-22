@@ -972,6 +972,20 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "Mozilla.Firefox.DeveloperEdition",
+      "Name": "Firefox Developer Edition (en-US)",
+      "Version": "141.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Mozilla.Firefox.ESR",
+      "Name": "Mozilla Firefox ESR (en-US)",
+      "Version": "128.12.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Mozilla.Thunderbird.en-CA",
       "Name": "Mozilla Thunderbird (en-CA)",
       "Version": "128.5.1",
