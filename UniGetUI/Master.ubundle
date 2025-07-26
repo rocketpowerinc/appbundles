@@ -1357,6 +1357,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "Sigstore.Cosign",
+      "Name": "cosign",
+      "Version": "2.5.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Sonos.S1Controller",
       "Name": "Sonos Controller",
       "Version": "57.21.50280",
