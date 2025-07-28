@@ -664,6 +664,13 @@
       }
     },
     {
+      "Id": "Guru3D.Afterburner",
+      "Name": "MSI Afterburner",
+      "Version": "4.6.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Gyan.FFmpeg.Essentials",
       "Name": "FFmpeg (Essentials Build)",
       "Version": "7.1",
