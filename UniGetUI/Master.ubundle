@@ -860,6 +860,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "MarkText.MarkText",
+      "Name": "MarkText",
+      "Version": "0.17.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Mega.MEGASync",
       "Name": "MEGAsync",
       "Version": "5.6.1.0",
