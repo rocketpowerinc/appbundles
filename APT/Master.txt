@@ -60,6 +60,18 @@ Hardware|solaar
 # Media
 Media|audacious
 
+# Shells
+Shells|fish
+Shells|fish-config
+Shells|fish-completions
+Shells|fish-plugins
+Shells|fish-themes
+Shells|zsh
+Shells|zsh-autosuggestions
+Shells|zsh-syntax-highlighting
+Shells|zsh-completions
+Shells|zsh-theme-powerlevel10k
+
 # Productivity
 Productivity|gnome-text-editor
 
