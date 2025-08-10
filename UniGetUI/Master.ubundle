@@ -1742,6 +1742,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "sharkdp.bat",
+      "Name": "bat",
+      "Version": "0.25.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "spacedrive.Spacedrive",
       "Name": "Spacedrive",
       "Version": "0.4.2",
