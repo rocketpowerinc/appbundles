@@ -685,6 +685,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "Helix.Helix",
+      "Name": "Helix",
+      "Version": "25.07.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Highresolution.X-MouseButtonControl",
       "Name": "X-Mouse Button Control",
       "Version": "2.20.5",
