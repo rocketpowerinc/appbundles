@@ -1763,6 +1763,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "sxyazi.yazi",
+      "Name": "Yazi",
+      "Version": "25.5.31",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "szTheory.exifcleaner",
       "Name": "ExifCleaner",
       "Version": "3.6.0",
