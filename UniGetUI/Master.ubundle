@@ -583,6 +583,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "Git.Git",
+      "Name": "Git",
+      "Version": "2.50.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "GitButler.GitButler",
       "Name": "GitButler",
       "Version": "0.14.3",
@@ -1693,13 +1700,6 @@
       "ManagerName": "Winget"
     },
     {
-      "Id": "make",
-      "Name": "Make",
-      "Version": "4.4.1",
-      "Source": "community",
-      "ManagerName": "Chocolatey"
-    },
-    {
       "Id": "nukeop.nuclear",
       "Name": "nuclear",
       "Version": "0.6.17",
@@ -1719,13 +1719,6 @@
       "Version": "5.3.1.14018",
       "Source": "winget",
       "ManagerName": "Winget"
-    },
-    {
-      "Id": "presenterm",
-      "Name": "Presenterm",
-      "Version": "0.11.0",
-      "Source": "main",
-      "ManagerName": "Scoop"
     },
     {
       "Id": "qBittorrent.qBittorrent",
@@ -1829,6 +1822,13 @@
       "Id": "xpipe-io.xpipe",
       "Name": "XPipe",
       "Version": "13.4.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "yorukot.superfile",
+      "Name": "superfile",
+      "Version": "v1.3.3",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -1940,6 +1940,12 @@
       "Source": "community"
     },
     {
+      "Id": "make",
+      "Name": "Make",
+      "Version": "4.4.1",
+      "Source": "community"
+    },
+    {
       "Id": "megacmd",
       "Name": "Megacmd",
       "Version": "1.4.1.0",
@@ -2024,6 +2030,12 @@
       "Source": "community"
     },
     {
+      "Id": "presenterm",
+      "Name": "Presenterm",
+      "Version": "0.11.0",
+      "Source": "main"
+    },
+    {
       "Id": "qownnotes",
       "Name": "Qownnotes",
       "Version": "24.1.3",
@@ -2051,12 +2063,6 @@
       "Id": "super-productivity",
       "Name": "Super Productivity",
       "Version": "11.1.2",
-      "Source": "community"
-    },
-    {
-      "Id": "superfile",
-      "Name": "Superfile",
-      "Version": "1.1.6",
       "Source": "community"
     },
     {
