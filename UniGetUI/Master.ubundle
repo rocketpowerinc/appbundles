@@ -1700,6 +1700,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "make",
+      "Name": "Make",
+      "Version": "4.4.1",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
       "Id": "nukeop.nuclear",
       "Name": "nuclear",
       "Version": "0.6.17",
@@ -1937,12 +1944,6 @@
       "Id": "lan-mouse",
       "Name": "Lan Mouse",
       "Version": "0.9.1",
-      "Source": "community"
-    },
-    {
-      "Id": "make",
-      "Name": "Make",
-      "Version": "4.4.1",
       "Source": "community"
     },
     {
