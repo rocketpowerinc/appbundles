@@ -368,6 +368,7 @@ Pirate|com.transmissionbt.Transmission
 Pirate|org.deluge_torrent.deluge
 Pirate|tv.kodi.Kodi
 Pirate|dev.fredol.open-tv
+Pirate|org.jdownloader.JDownloader
 
 # Podcasts
 Podcasts|org.gnome.Podcasts
