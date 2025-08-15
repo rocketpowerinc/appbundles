@@ -1511,6 +1511,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "Valve.SteamCMD",
+      "Name": "SteamCMD",
+      "Version": "2.2.95.35",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Ventoy.Ventoy",
       "Name": "Ventoy",
       "Version": "1.0.99",
