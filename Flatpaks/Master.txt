@@ -39,6 +39,7 @@ AI|io.github.qwersyk.Newelle
 AI|io.github.Bavarder.Bavarder
 AI|com.jeffser.Alpaca
 AI|page.codeberg.Imaginer.Imaginer
+AI|io.gpt4all.gpt4all
 
 # Android
 Android|org.openandroidinstaller.OpenAndroidInstaller
