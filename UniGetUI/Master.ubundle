@@ -121,6 +121,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "9PM860492SZD",
+      "Name": "Microsoft PC Manager",
+      "Version": "Unknown",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "9WZDNCRDKCQP",
       "Name": "Comic Seer",
       "Version": "Unknown",
