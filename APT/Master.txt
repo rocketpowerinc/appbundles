@@ -10,6 +10,7 @@ Essentials|gufw
 Essentials|yad
 Essentials|zenity
 Essentials|whiptail
+Essentials|just
 
 # Backups
 Backups|timeshift
