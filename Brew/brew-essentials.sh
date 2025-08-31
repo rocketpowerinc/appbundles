@@ -7,3 +7,4 @@ brew install go-task
 
 #* Casks
 brew install --cask base #App to create, design, edit and browse SQLite 3 database files
+brew install --cask startupfolder
