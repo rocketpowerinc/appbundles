@@ -1,17 +1,5 @@
 #!/usr/bin/env bash
 
-#* Command line tools
-brew install fastfetch
-brew install just
-brew install go-task
-
-#* Casks
-brew install --cask base #App to create, design, edit and browse SQLite 3 database files
-brew install --cask startupfolder
-brew install --cask quitter
-
-
-
 ###########################################
 ### Brews - Command Line Core Utilities ###
 ###########################################
@@ -29,6 +17,8 @@ brew install gum
 brew install zenity
 brew install eza
 brew install fastfetch
+brew install just #Command runner / simpler makefile alternative
+brew install go-task #Task runner / simpler makefile alternative
 
 #############
 ### Casks ###
@@ -50,8 +40,9 @@ brew install --cask visual-studio-code
 brew install --cask localsend
 brew install --cask orbstack #installs docker and docker-compose
 brew install --cask stats
-brew install --cask quitter
-brew install --cask startupfolder
+brew install --cask base #App to create, design, edit and browse SQLite 3 database files
+brew install --cask startupfolder #Manage Login Items more easily
+brew install --cask quitter #Automatically quit apps after a period of inactivity
 
 ################
 ### Optional ###
