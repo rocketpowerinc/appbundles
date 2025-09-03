@@ -13,8 +13,6 @@ commands=(
 	"brew install --cask iterm2"
 )
 
-selected=$(printf "%s\n" "${commands[@]}" | gum choose --no-limit)
-
-for cmd in $selected; do
+printf "%s\n" "${commands[@]}" | gum choose --no-limit | while read -r cmd; do
 	eval "$cmd"
 done
