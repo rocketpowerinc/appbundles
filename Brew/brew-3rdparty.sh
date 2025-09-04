@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+
 gum choose --no-limit \
   "brew install --cask ente-auth       # encrypted photos" \
   "brew install --cask bitwarden       # password manager" \

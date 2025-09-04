@@ -1,23 +1,6 @@
+#!/usr/bin/env bash
+
 gum choose --no-limit \
-  "### Brews - Command Line Core Utilities ###" \
-  "brew install git                          # version control" \
-  "brew install gh                           # GitHub CLI" \
-  "brew install jq                           # JSON processor" \
-  "brew install bpytop                       # system monitor" \
-  "brew install curl                         # data transfer" \
-  "brew install wget                         # network downloader" \
-  "brew install fd                           # faster find" \
-  "brew install figlet                       # ASCII banners" \
-  "brew install fzf                          # fuzzy finder" \
-  "brew install glow                         # markdown viewer" \
-  "brew install gum                          # terminal UI components" \
-  "brew install zenity                       # GTK dialogs" \
-  "brew install eza                          # modern ls" \
-  "brew install fastfetch                    # system info" \
-  "brew install just                         # command runner / simpler makefile alternative" \
-  "brew install go-task                      # task runner / simpler makefile alternative" \
-  "" \
-  "### Casks - Essentials ###" \
   "brew install --cask ente-auth             # encrypted photos" \
   "brew install --cask bitwarden             # password manager" \
   "brew install --cask iterm2                # terminal emulator" \
@@ -36,10 +19,6 @@ gum choose --no-limit \
   "brew install --cask stats                 # system monitor" \
   "brew install --cask startupfolder         # manage login items" \
   "brew install --cask quitter               # auto-quit idle apps" \
-  "" \
-  "### Casks - Optional ###" \
-  "brew install neovim                       # modal text editor" \
-  "brew install helix                        # Rust text editor" \
   "brew install --cask protonvpn             # VPN" \
   "brew install --cask proton-mail           # encrypted email" \
   "brew install --cask notion                # notes & docs" \
@@ -67,21 +46,8 @@ gum choose --no-limit \
   "brew install --cask jdownloader           # download manager" \
   "brew install --cask qbittorrent           # torrent client" \
   "brew install --cask base                  # SQLite database browser" \
-  "" \
-  "### VMs ###" \
   "brew install --cask parallels             # virtualization" \
   "brew install --cask utm                   # virtualization (duplicate above)" \
-  "" \
-  "### Firewalls (Choose one) ###" \
   "brew install --cask lulu                  # free firewall" \
   "brew install --cask little-snitch         # advanced firewall" \
-  "" \
-  "### Mas - App Store ###" \
-  "mas install 1136220934                    # Infuse (video player)" \
-  "mas install 1284863847                    # Unsplash Wallpaper (see wallper.app)" \
-  "mas install 6447125648                    # Gestimer (time tracker)" \
-  "mas install 897118787                     # Shazam (music recognition)" \
-  "mas install 1355679052                    # Dropover (drag & drop)" \
-  "mas install 937984704                     # Amphetamine (keep awake)" \
-  "mas install 6745342698                    # uBlock Origin Lite (ad blocker)" \
-| sed '/^###/d;/^$/d' | sh
+| sh
