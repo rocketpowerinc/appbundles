@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-gum choose --no-limit --height 25 \
+gum choose --no-limit --height 20 \
   "brew install git                          # version control" \
   "brew install gh                           # GitHub CLI" \
   "brew install jq                           # JSON processor" \
