@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-gum choose --no-limit \
+
+gum choose --no-limit --height 25 \
   "brew install --cask ente-auth             # encrypted photos" \
   "brew install --cask bitwarden             # password manager" \
   "brew install --cask iterm2                # terminal emulator" \

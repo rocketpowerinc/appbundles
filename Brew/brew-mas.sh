@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-gum choose --no-limit \
+
+gum choose --no-limit --height 25 \
   "mas install 1136220934                    # Infuse (video player)" \
   "mas install 1284863847                    # Unsplash Wallpaper (see wallper.app)" \
   "mas install 6447125648                    # Gestimer (time tracker)" \
