@@ -207,6 +207,7 @@ Fun|org.gnome.gitlab.Cowsay
 Games|com.play0ad.zeroad
 Games|com.pokemmo.PokeMMO
 Games|org.xonotic.Xonotic
+Games|org.endlessaccess.threadbare
 Games|net.freerct.FreeRCT
 Games|org.tuxemon.Tuxemon
 Games|net.supertuxkart.SuperTuxKart
