@@ -470,6 +470,9 @@ SteamDeck|net.retrodeck.retrodeck
 Sticky Notes|com.vixalien.sticky
 Sticky Notes|org.gnome.Notes
 
+# Store
+Store|io.github.kolunmi.Bazaar
+
 
 # Terminals
 Terminals|org.kde.yakuake
