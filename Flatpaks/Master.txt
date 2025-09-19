@@ -252,6 +252,7 @@ Gaming|org.solarus_games.solarus.Launcher
 Gaming|com.valvesoftware.SteamLink
 Gaming|dev.lizardbyte.app.Sunshine
 Gaming|com.moonlight_stream.Moonlight
+Gaming|io.github.unknownskl.greenlight
 
 # Gemini Protocol
 Gemini-Protocol|com.ranfdev.Geopard
@@ -350,6 +351,11 @@ MusicEducation|ar.com.tuxguitar.TuxGuitar
 MusicEducation|io.github.revisto.drum-machine
 MusicEducation|org.sugarlabs.MusicKeyboard
 MusicEducation|org.kde.minuet
+
+
+# Nvidia
+Nvidia|com.leinardi.gwe
+Nvidia|io.github.astralvixen.geforce-infinity
 
 # Pdf
 Pdf|com.sejda.Sejda
@@ -476,7 +482,6 @@ Time|org.jousse.vincent.Pomodorolm
 Tools|com.github.finefindus.eyedropper
 Tools|io.github.jean28518.Linux-Assistant
 Tools|dev.serebit.Waycheck
-Tools|com.leinardi.gwe
 Tools|io.github.vikdevelop.SaveDesktop
 Tools|re.sonny.Junction
 Tools|app.drey.Warp
