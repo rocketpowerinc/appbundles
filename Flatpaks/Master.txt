@@ -356,6 +356,8 @@ MusicEducation|org.kde.minuet
 # Nvidia
 Nvidia|com.leinardi.gwe
 Nvidia|io.github.astralvixen.geforce-infinity
+Nvidia|io.github.congard.qnvsm
+Nvidia|io.github.hmlendea.geforcenow-electron
 
 # Pdf
 Pdf|com.sejda.Sejda
