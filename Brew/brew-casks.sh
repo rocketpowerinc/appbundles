@@ -43,6 +43,7 @@ gum choose --no-limit --height 20 \
   "brew install --cask spotify               # music" \
   "brew install --cask standard-notes        # secure notes" \
   "brew install --cask startupfolder         # manage login items" \
+  "brew install --cask superproductivity     # task manager" \
   "brew install --cask stats                 # system monitor" \
   "brew install --cask tailscale-app         # mesh VPN" \
   "brew install --cask the-unarchiver        # extract archives (alt: Keka)" \
