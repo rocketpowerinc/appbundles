@@ -233,6 +233,7 @@ Games|net.sourceforge.chromium-bsu
 Games|io.github.pastthepixels.InfiniteShooter
 Games|org.kde.kapman
 Games|io.github.swordpuffin.hunt
+Games|net.ptilouk.littlebrats
 
 # Games-Educational
 Games-Educational|org.gnome.Crosswords
