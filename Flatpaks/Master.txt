@@ -234,6 +234,8 @@ Games|io.github.pastthepixels.InfiniteShooter
 Games|org.kde.kapman
 Games|io.github.swordpuffin.hunt
 Games|net.ptilouk.littlebrats
+Games|se.principia_web.principia
+Games|org.metamuffin.hurrycurry.client
 
 # Games-Educational
 Games-Educational|org.gnome.Crosswords
@@ -452,6 +454,7 @@ Security|org.gnome.World.Secrets
 Security|com.belmoussaoui.Authenticator
 Security|org.onionshare.OnionShare
 Security|me.proton.Pass
+Security|page.codeberg.cozyowl.OpaqueFiles
 
 # Servers
 Servers|com.nextcloud.desktopclient.nextcloud
