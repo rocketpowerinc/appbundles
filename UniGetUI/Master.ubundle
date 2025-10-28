@@ -1504,6 +1504,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "ToEverything.AFFiNE",
+      "Name": "AFFiNE",
+      "Version": "0.25.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "TorProject.TorBrowser",
       "Name": "Tor Browser",
       "Version": "14.0.3",
