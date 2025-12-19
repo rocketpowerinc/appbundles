@@ -590,6 +590,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "GOG.Galaxy",
+      "Name": "GOG GALAXY",
+      "Version": "2.0.92.24",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Genymobile.scrcpy",
       "Name": "scrcpy",
       "Version": "3.1",
