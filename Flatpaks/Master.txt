@@ -303,6 +303,8 @@ HomeSchool|org.kde.marble
 HomeSchool|org.stellarium.Stellarium
 HomeSchool|org.sugarlabs.Words
 HomeSchool|ca.vlacroix.Tally
+HomeSchool|io.github.leolost2605.gradebook
+HomeSchool|com.github.Darazaki.Spedread
 
 # Iso
 Iso|org.kde.isoimagewriter
@@ -319,6 +321,7 @@ KidsCoding|com.hack_computer.Clubhouse
 KidsCoding|com.endlessnetwork.fablemaker
 KidsCoding|org.opensurge2d.OpenSurge
 KidsCoding|com.gamestarmechanic.gamestarmechanic
+KidsCoding|org.turbowarp.TurboWarp
 
 # Media
 Media|com.spotify.Client
@@ -416,6 +419,7 @@ Productivity|site.someones.Lonewolf
 Productivity|net.daase.journable
 Productivity|com.super_productivity.SuperProductivity
 Productivity|io.github.dgsasha.Remembrance
+Productivity|com.matthiasn.lotti
 
 
 # Radio
