@@ -2,6 +2,7 @@
 Essentials|com.raggesilver.BlackBox
 Essentials|com.github.tchx84.Flatseal
 Essentials|org.deskflow.deskflow
+Essentials|com.mattjakeman.ExtensionManager
 Essentials|io.github.flattool.Warehouse
 Essentials|com.google.AndroidStudio
 Essentials|org.localsend.localsend_app
