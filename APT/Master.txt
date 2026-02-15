@@ -4,13 +4,17 @@ Essentials|gh
 Essentials|git
 Essentials|jq
 Essentials|nala
-Essentials|ssh
-Essentials|ufw
-Essentials|gufw
 Essentials|yad
 Essentials|zenity
 Essentials|whiptail
 Essentials|just
+Essentials|xclip
+Essentials|wl-clipboard
+
+# Admin
+Admin|ssh
+Admin|ufw
+Admin|gufw
 
 # Backups
 Backups|timeshift
@@ -40,8 +44,7 @@ CLI Tools|make
 CLI Tools|ripgrep
 CLI Tools|uidmap
 CLI Tools|wget
-CLI Tools|xclip
-CLI Tools|wl-clipboard
+
 
 # Communication
 Communication|kdeconnect
