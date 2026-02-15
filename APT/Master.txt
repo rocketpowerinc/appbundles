@@ -41,7 +41,7 @@ CLI Tools|ripgrep
 CLI Tools|uidmap
 CLI Tools|wget
 CLI Tools|xclip
-
+CLI Tools|wl-clipboard
 
 # Communication
 Communication|kdeconnect
