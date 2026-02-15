@@ -15,7 +15,6 @@ Essentials|com.visualstudio.code
 Essentials|org.mozilla.firefox
 Essentials|com.valvesoftware.Steam
 Essentials|com.discordapp.Discord
-Essentials|so.libdb.dissent
 Essentials|com.todoist.Todoist
 Essentials|org.standardnotes.standardnotes
 Essentials|md.obsidian.Obsidian
