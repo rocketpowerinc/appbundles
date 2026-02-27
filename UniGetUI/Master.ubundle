@@ -114,6 +114,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "9PC3H3V7Q9CH",
+      "Name": "Rufus",
+      "Version": "Unknown",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "9PKTQ5699M62",
       "Name": "iCloud",
       "Version": "Unknown",
@@ -1325,13 +1332,6 @@
       "Id": "RedHat.VirtViewer",
       "Name": "VirtViewer",
       "Version": "11.0.256",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Rufus.Rufus",
-      "Name": "Rufus",
-      "Version": "4.6",
       "Source": "winget",
       "ManagerName": "Winget"
     },
