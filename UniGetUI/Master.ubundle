@@ -881,6 +881,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "Logitech.UnifyingSoftware",
+      "Name": "Logitech Unifying Software",
+      "Version": "2.52.33",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Logseq.Logseq",
       "Name": "Logseq",
       "Version": "0.10.9",
