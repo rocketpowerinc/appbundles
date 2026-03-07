@@ -1448,6 +1448,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "Stremio.Stremio",
+      "Name": "Stremio",
+      "Version": "4.4.181",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "SublimeHQ.SublimeText.4",
       "Name": "Sublime Text 4",
       "Version": "4.0.0.418000",
@@ -1775,6 +1782,13 @@
       "Version": "24.5",
       "Source": "winget",
       "ManagerName": "Winget"
+    },
+    {
+      "Id": "openssl",
+      "Name": "Openssl",
+      "Version": "3.6.1",
+      "Source": "main",
+      "ManagerName": "Scoop"
     },
     {
       "Id": "ownCloud.ownCloudDesktop",
