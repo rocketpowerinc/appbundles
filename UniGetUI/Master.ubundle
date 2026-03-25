@@ -86,6 +86,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "9NTSNMSVCB5L",
+      "Name": "Screenbox Media Player",
+      "Version": "Unknown",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "9NXQXXLFST89",
       "Name": "Disney\u002B",
       "Version": "Unknown",
