@@ -1917,6 +1917,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "yt-dlp.yt-dlp",
+      "Name": "yt-dlp",
+      "Version": "2026.03.17",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "zig.zig",
       "Name": "Zig",
       "Version": "0.13.0",
