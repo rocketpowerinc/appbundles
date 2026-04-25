@@ -1364,6 +1364,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "SQLite.SQLite",
+      "Name": "SQLite",
+      "Version": "3.53.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "Safing.Portmaster",
       "Name": "Portmaster",
       "Version": "1.6.5",
