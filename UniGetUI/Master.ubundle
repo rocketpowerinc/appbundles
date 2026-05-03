@@ -1091,6 +1091,13 @@
       "ManagerName": "Winget"
     },
     {
+      "Id": "NextDNS.NextDNS",
+      "Name": "NextDNS",
+      "Version": "3.0.13",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
       "Id": "NexusMods.Vortex",
       "Name": "Vortex",
       "Version": "1.14.3",
