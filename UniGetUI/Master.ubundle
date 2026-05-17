@@ -1749,6 +1749,13 @@
       "ManagerName": "winget"
     },
     {
+      "Id": "git-crypt",
+      "Name": "Git Crypt",
+      "Version": "0.7.0",
+      "Source": "main",
+      "ManagerName": "scoop"
+    },
+    {
       "Id": "hluk.CopyQ",
       "Name": "CopyQ",
       "Version": "9.1.0",
