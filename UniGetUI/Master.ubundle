@@ -1182,6 +1182,13 @@
       "ManagerName": "winget"
     },
     {
+      "Id": "OpenJS.NodeJS",
+      "Name": "Node.js",
+      "Version": "26.2.0",
+      "Source": "winget",
+      "ManagerName": "winget"
+    },
+    {
       "Id": "OpenWhisperSystems.Signal",
       "Name": "Signal",
       "Version": "7.35.0",
