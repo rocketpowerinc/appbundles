@@ -713,9 +713,9 @@
       "ManagerName": "winget"
     },
     {
-      "Id": "Gyan.FFmpeg.Essentials",
-      "Name": "FFmpeg (Essentials Build)",
-      "Version": "7.1",
+      "Id": "Gyan.FFmpeg",
+      "Name": "FFmpeg",
+      "Version": "8.1.1",
       "Source": "winget",
       "ManagerName": "winget"
     },
@@ -1756,13 +1756,6 @@
       "ManagerName": "winget"
     },
     {
-      "Id": "git-crypt",
-      "Name": "Git Crypt",
-      "Version": "0.7.0",
-      "Source": "main",
-      "ManagerName": "scoop"
-    },
-    {
       "Id": "hluk.CopyQ",
       "Name": "CopyQ",
       "Version": "9.1.0",
@@ -1805,13 +1798,6 @@
       "ManagerName": "winget"
     },
     {
-      "Id": "make",
-      "Name": "Make",
-      "Version": "4.4.1",
-      "Source": "community",
-      "ManagerName": "chocolatey"
-    },
-    {
       "Id": "nukeop.nuclear",
       "Name": "nuclear",
       "Version": "0.6.17",
@@ -1824,13 +1810,6 @@
       "Version": "24.5",
       "Source": "winget",
       "ManagerName": "winget"
-    },
-    {
-      "Id": "openssl",
-      "Name": "Openssl",
-      "Version": "3.6.1",
-      "Source": "main",
-      "ManagerName": "scoop"
     },
     {
       "Id": "ownCloud.ownCloudDesktop",
@@ -2054,6 +2033,12 @@
       "Source": "community"
     },
     {
+      "Id": "git-crypt",
+      "Name": "Git Crypt",
+      "Version": "0.7.0",
+      "Source": "main"
+    },
+    {
       "Id": "kate",
       "Name": "Kate",
       "Version": "23.8.0",
@@ -2063,6 +2048,12 @@
       "Id": "lan-mouse",
       "Name": "Lan Mouse",
       "Version": "0.9.1",
+      "Source": "community"
+    },
+    {
+      "Id": "make",
+      "Name": "Make",
+      "Version": "4.4.1",
       "Source": "community"
     },
     {
@@ -2130,6 +2121,12 @@
       "Name": "Nomachine",
       "Version": "8.9.1.100",
       "Source": "community"
+    },
+    {
+      "Id": "openssl",
+      "Name": "Openssl",
+      "Version": "3.6.1",
+      "Source": "main"
     },
     {
       "Id": "playnite",
