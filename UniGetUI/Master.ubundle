@@ -1119,6 +1119,13 @@
       "ManagerName": "winget"
     },
     {
+      "Id": "NoMachine.NoMachine",
+      "Name": "NoMachine",
+      "Version": "9.8.2",
+      "Source": "winget",
+      "ManagerName": "winget"
+    },
+    {
       "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
       "Name": "Notepad\u002B\u002B",
       "Version": "8.7.4",
@@ -2128,12 +2135,6 @@
       "Id": "nmap",
       "Name": "Nmap",
       "Version": "7.95.0",
-      "Source": "community"
-    },
-    {
-      "Id": "nomachine",
-      "Name": "Nomachine",
-      "Version": "8.9.1.100",
       "Source": "community"
     },
     {
