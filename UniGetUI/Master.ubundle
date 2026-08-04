@@ -65,6 +65,13 @@
       "ManagerName": "winget"
     },
     {
+      "Id": "9NFLPQ45J84V",
+      "Name": "Refloow Photo Studio",
+      "Version": "Unknown",
+      "Source": "msstore",
+      "ManagerName": "winget"
+    },
+    {
       "Id": "9NLRL58VZCK9",
       "Name": "Hue Essentials",
       "Version": "Unknown",
